@@ -1,0 +1,51 @@
+player,team,pos,age,stage,contract_text,salary_2026
+Anthony Rendon,LAA,3b,36.0,FA-eligible,7 y/$245M (20-26)* restructured,35265106.0
+Kris Bryant,COL,rf,34.0,FA-eligible,7 y/$182M (22-28),27000000.0
+Pablo Lopez,MIN,rhp-s,30.0,FA-eligible,4 yr/$73.5M (24-27),21750000.0
+Joe Musgrove,SDP,rhp-s,33.0,FA-eligible,5 y/$100M (23-27),20000000.0
+Jose O. Berrios,TOR,rhp-s,32.0,FA-eligible,7 yr/$131M (22-28),19000000.0
+Matt Boyd,CHC,lhp-s,35.0,FA-eligible,2 y/$29M (25-26)+27 m opt,17500000.0
+Anthony Santander,TOR,rf,31.0,FA-eligible,5 y/$92.5M (25-29)+30 cl opt*,13496154.0
+Robert Stephenson,LAA,rhp,33.0,FA-eligible,3 yr/$33M (24-26)+27 cond opt,11000000.0
+Joe Jimenez,ATL,rhp,31.0,FA-eligible,3 y/$26M (24-26),9000000.0
+Yimi Garcia,TOR,rhp,35.0,FA-eligible,2 y/$15M (25-26),7500000.0
+Justin Steele,CHC,lhp-s,30.0,Arb,1 y/$6.775M (26),6775000.0
+Gavin Lux,TBR,2b,28.0,Arb,1 y/$5.525M (26),5525000.0
+Kike Hernandez,LAD,ss-cf,34.0,FA-eligible,1 y/$4.5M (26),4500000.0
+A.J. Puk,ARI,lhp-s,31.0,Arb,1 y/$3.1M (26),3100000.0
+Ryan Pepiot,TBR,rhp-s,28.0,Arb,1 y/$3.025M (26),3025000.0
+Brusdar Graterol,LAD,rhp-c,27.0,Arb,1 y/$2.8M (26),2800000.0
+Kutter Crawford,BOS,rhp-s,30.0,Arb,1 y/$2.75M (26),2750000.0
+Tylor Megill,NYM,rhp,30.0,Arb,1 y/$2.5M (26),2500000.0
+Kristian Campbell,BOS,2b,24.0,Pre-arb,8 y/$60M (25-32)+33-34 opts,2250000.0
+Triston Casas,BOS,1b,26.0,Arb,1 y/$1.61M (26),1610000.0
+Edwin Uceta,TBR,rhp,27.0,Pre-arb,1 y/$1.525M (26),1525000.0
+Reed Garrett,NYM,rhp,33.0,Pre-arb,1 y/$1.3M (26),1300000.0
+Tyler Austin,CHC,1b-of,34.0,Pre-arb,1 y/$1.2M (26),1200000.0
+Shelby Miller,CHC,rhp,35.0,FA-eligible,2 y/$2.5M (26-27),1000000.0
+Yu Darvish,SDP,rhp-s,39.0,FA-eligible,6 y/$108M (23-28) restricted list,1000000.0
+Akil Baddoo,MIL,of,27.0,Arb,1 y/$1.25M (26),974947.0
+Jake Cousins,LAD,rhp,31.0,Arb,"1 y/$950,000 (26)",950000.0
+Joey Wentz,ATL,lhp,28.0,Pre-arb,"1 y/$900,000 (26)",900000.0
+Brandon Walter,HOU,lhp,29.0,Pre-arb,"1 y/$850,000 (26)",850000.0
+Louie Varland,TOR,rhp,28.0,Pre-arb,"1 y/$821,500 (26)",821500.0
+Reese Olson,DET,rhp-s,26.0,Pre-arb,"1 y/$818,100 (26)",818100.0
+James McArthur,KCR,rhp,29.0,Pre-arb,"1 y/$810,000 (26)",810000.0
+Gavin Stone,LAD,rhp,27.0,Pre-arb,"1 y/$810,000 (26)",810000.0
+Bowden Francis,TOR,rhp,30.0,Pre-arb,"1 y/$809,800 (26)",809800.0
+Ronny Henriquez,MIA,rhp,26.0,Pre-arb,"1 y/$809,000 (26)",809000.0
+Bryan Hoeing,SDP,rhp,29.0,Pre-arb,"1 y/$807,000 (26)",807000.0
+Quinn Priester,MIL,rhp-s,25.0,Pre-arb,"1 y/$803,200 (26)",803200.0
+Jordan Westburg,BAL,ss,27.0,Pre-arb,"1 y/$802,800 (26)",802800.0
+Porter Hodge,CHC,rhp,25.0,Pre-arb,"1 y/$800,000 (26)",800000.0
+Hayden Birdsong,SFG,rhp,24.0,Pre-arb,"1 y/$800,000 (26)",800000.0
+Randy Rodriguez,SFG,rhp,26.0,Pre-arb,"1 y/$800,000 (26)",800000.0
+Spencer Schwellenbach,ATL,rhp,26.0,Pre-arb,"1 y/$800,000 (26)",800000.0
+Alec Marsh,KCR,rhp,28.0,Pre-arb,"1 y/$797,500 (26)",797500.0
+Mike Vasil,CWS,rhp,26.0,Pre-arb,"1 y/$795,050 (26)",795050.0
+Jake Latz,TEX,lhp,30.0,Pre-arb,"1 y/$793,500 (26)",793500.0
+David Festa,MIN,rhp,26.0,Pre-arb,"1 y/$791,200 (26)",791200.0
+Brooks Baldwin,CWS,2b-3b,25.0,Pre-arb,"1 y/$789,250 (26)",789250.0
+Trey Sweeney,DET,ss,26.0,Pre-arb,"1 y/$788,700 (26)",788700.0
+Bubba Chander,PIT,rhp-s,23.0,Pre-arb,"1 y/$787,200 (26)",787200.0
+Andrew Saalfrank,ARI,rhp,28.0,Pre-arb,"1 y/$786,900 (26)",786900.0

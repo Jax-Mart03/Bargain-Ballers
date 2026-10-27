@@ -1,0 +1,867 @@
+team,player_raw,name_norm,category,note,salary,cbt,player_id,attached
+NYY,"Blackburn, Paul",paul blackburn,bonus,performance bonus - innings,100000.0,100000.0,paul blackburn|32,True
+NYY,"Cabrera, Oswaldo",oswaldo cabrera,claimed,claimed by Cincinnati 9/18/26,1142246.0,1142246.0,oswaldo cabrera|27,True
+NYY,"Hampton, Chase",chase hampton,claimed,claimed by Washington 9/12/26,58498.0,58498.0,,False
+NYY,"Topa, Justin",justin topa,outrighted,outrighted 8/31/26,29198.0,29198.0,,False
+NYY,"Bird, Jake",jake bird,trade,traded to Washington 8/3/26,645882.0,645882.0,jake bird|30,True
+NYY,"Cruz, Yovanny",yovanny cruz,trade,traded to Washington 8/3/26,84438.0,84438.0,yovanny cruz|26,True
+NYY,"Doval, Camilo",camilo doval,trade,"to Pittsburgh, 8/3/26 trade",1109358.0,1109358.0,camilo doval|28,True
+NYY,"Doval, Camilo",camilo doval,trade,traded to Pittsburgh 8/1/26,4240642.0,4240642.0,camilo doval|28,True
+NYY,"Grichuk, Randal",randal grichuk,outrighted,"outrighted 5/1/26, less CHA portion",1886845.0,1886845.0,randal grichuk|34,False
+NYY,"Winquest, Cade",cade winquest,other,returned to St. Louis 4/13/26,83422.0,83422.0,cade winquest|26,True
+NYY,"Sandridge, Jayvien",jayvien sandridge,trade,"from LA Angels, 1/29/26 trade",-100000.0,-100000.0,,False
+NYY,"Hill, Tim",tim hill,cbt_credit,CBT credit for unpaid 2026 buyout,,-350000.0,tim hill|36,True
+NYY,"Bellinger, Cody",cody bellinger,buyout,buyout of 2026 option,5000000.0,,cody bellinger|30,False
+NYY,"Bellinger, Cody",cody bellinger,other,"true-up, 11/25 opt-out",,3750000.0,cody bellinger|30,True
+NYY,"Hicks, Aaron",aaron hicks,buyout,buyout of 2026 option,1000000.0,,,False
+NYY,"LeMahieu, DJ",dj lemahieu,released,released 7/10/25,15000000.0,15000000.0,,False
+NYY,"Stanton, Giancarlo",giancarlo stanton,trade,"from Miami, 2026-2028",-10000000.0,-3000000.0,giancarlo stanton|36,True
+TOR,"Hoffman, Jeff",jeff hoffman,bonus,performance bonus - innings,400000.0,400000.0,jeff hoffman|33,True
+TOR,"Scherzer, Max",max scherzer,bonus,performance bonus - innings,2000000.0,2000000.0,max scherzer|41,True
+TOR,"Mantiply, Joe",joe mantiply,dfa,DFA 9/21/26,1411765.0,1411765.0,,False
+TOR,"Lorenzen, Michael",michael lorenzen,outrighted,outrighted 9/21/26,108449.0,108449.0,michael lorenzen|34,False
+TOR,"Sanchez, Jesus",jesus sanchez,claimed,claimed by Arizona 9/14/26,6327273.0,6327273.0,,False
+TOR,"Cameron, Daz",daz cameron,outrighted,outrighted 9/4/26,89840.0,89840.0,,False
+TOR,"Woods-Richardson, Simeon",simeon woods richardson,outrighted,outrighted 8/31/26,93676.0,93676.0,,False
+TOR,"Waldron, Matt",matt waldron,claimed,claimed by Washington 8/22/26,72436.0,72436.0,matt waldron|29,True
+TOR,"Sosa, Lenyn",lenyn sosa,outrighted,outrighted 8/18/26,545726.0,545726.0,,False
+TOR,"Estrada, Lazaro",lazaro estrada,outrighted,outrighted 8/17/26,430921.0,430921.0,,False
+TOR,"MacIver, Willie",willie maciver,claimed,claimed by Seattle 8/12/26,118818.0,118818.0,willie maciver|29,True
+TOR,"Macko, Adam",adam macko,trade,traded to Texas 8/3/26,274764.0,274764.0,adam macko|25,True
+TOR,"Hoffman, Jeff",jeff hoffman,trade,"to Minnesota, 8/3/26 trade",,,jeff hoffman|33,True
+TOR,"Hoffman, Jeff",jeff hoffman,trade,traded to Minnesota 8/3/26,9431373.0,9431373.0,jeff hoffman|33,True
+TOR,"Varsho, Daulton",daulton varsho,trade,"to Houston, 8/3/26 trade",1609626.0,1609626.0,daulton varsho|28,True
+TOR,"Varsho, Daulton",daulton varsho,trade,traded to Houston 8/3/26,7588235.0,7588235.0,daulton varsho|28,True
+TOR,"Taillon, Jameson",jameson taillon,trade,"from Chicago Cubs, 8/2/26 trade",-4956791.0,-4956791.0,jameson taillon|34,True
+TOR,"Cease, Dylan",dylan cease,bonus,award bonus - All Star,50000.0,50000.0,dylan cease|30,True
+TOR,"Guerrero Jr., Vladimir",vladimir guerrero jr,bonus,award bonus - All Star,50000.0,50000.0,vladimir guerrero jr|27,True
+TOR,"Gausman, Kevin",kevin gausman,trade,traded to Chicago Cubs 8/2/26,16112299.0,15411765.0,kevin gausman|35,True
+TOR,"Nance, Tommy",tommy nance,trade,traded to Minnesota 7/10/26,467634.0,467634.0,tommy nance|35,True
+TOR,"Juenger, Hayden",hayden juenger,trade,traded to Athletics 6/27/26,37168.0,37168.0,hayden juenger|25,True
+TOR,"Heineman, Tyler",tyler heineman,trade,"from LA Angels, 6/17/26 trade",-100000.0,-100000.0,tyler heineman|35,True
+TOR,"Heineman, Tyler",tyler heineman,trade,traded to LA Angels 6/17/26,562500.0,562500.0,tyler heineman|35,True
+TOR,"Seabold, Connor",connor seabold,trade,"from Kansas City, 6/15/26 trade",-100000.0,-100000.0,connor seabold|30,True
+TOR,"Seabold, Connor",connor seabold,trade,traded to Kansas City 6/15/26,81283.0,81283.0,connor seabold|30,True
+TOR,"Rodriguez, Yariel",yariel rodriguez,outrighted,outrighted 6/12/26,7000000.0,6400000.0,,False
+TOR,"Andrews, Tanner",tanner andrews,outrighted,outrighted 6/7/26,16498.0,16498.0,,False
+TOR,"Woods-Richardson, Simeon",simeon woods richardson,trade,"to Minnesota, 6/3/26 trade",100000.0,100000.0,,False
+TOR,"Voth, Austin",austin voth,outrighted,outrighted 6/1/26,80214.0,80214.0,,False
+TOR,"Lauer, Eric",eric lauer,trade,"to LA Dodgers, 5/17/26 trade",2529412.0,2529412.0,eric lauer|31,True
+TOR,"Lauer, Eric",eric lauer,trade,traded to LA Dodgers 5/17/26,1270588.0,1270588.0,eric lauer|31,True
+TOR,"Jimenez, Eloy",eloy jimenez,outrighted,"outrighted, elected FA 5/2/26",168449.0,168449.0,,False
+TOR,"Fitzgerald, Tyler",tyler fitzgerald,trade,traded to LA Dodgers 4/28/26,52398.0,52398.0,,False
+TOR,"MacIver, Willie",willie maciver,trade,"to Texas, 4/24/26 trade",100000.0,100000.0,willie maciver|29,True
+TOR,"Fleming, Josh",josh fleming,outrighted,"outrighted, elected FA 4/9/26 R4",18182.0,18182.0,,False
+TOR,"Bastardo, Angel",angel bastardo,other,returned to Boston 4/1/26 R7,33797.0,33797.0,,False
+TOR,"Jimenez, Leo",leo jimenez,trade,traded to Miami 3/29/26,20856.0,20856.0,,False
+TOR,"Bruihl, Justin",justin bruihl,trade,"from Cleveland, 12/17/25 trade",-100000.0,-100000.0,justin bruihl|29,True
+TOR,"Bieber, Shane",shane bieber,cbt_credit,"CBT credit, unpaid 2026 buyout",,-1268817.0,shane bieber|31,True
+TOR,"Gimenez, Andres",andres gimenez,bonus,"signing bonus, paid by Cleveland",-571429.0,,andres gimenez|27,True
+TOR,"Straw, Myles",myles straw,bonus,"signing bonus, paid by Cleveland",-400000.0,,myles straw|31,True
+TOR,"Straw, Myles",myles straw,trade,"from Cleveland, 1/17/25 trade",-1000000.0,-1000000.0,myles straw|31,True
+BOS,"Duran, Jarren",jarren duran,bonus,performance bonus - plate appearances,75000.0,75000.0,jarren duran|29,True
+BOS,"Harris, Brett",brett harris,claimed,claimed by San Francisco 9/3/26,58362.0,58362.0,brett harris|28,True
+BOS,"Chapman, Aroldis",aroldis chapman,cbt_credit,CBT credit for unpaid 2027 buyout,,-300000.0,aroldis chapman|38,True
+BOS,"Martinez, Seth",seth martinez,outrighted,outrighted 8/14/26,25668.0,25668.0,seth martinez|31,False
+BOS,"Rogers, Jake",jake rogers,claimed,claimed by Chicago AL 8/14/26,45882.0,45882.0,jake rogers|31,True
+BOS,"La Sorsa, Joe",joe la sorsa,released,released 8/6/26,53615.0,53615.0,,False
+BOS,"Watson, Ryan",ryan watson,claimed,claimed by LA Angels 8/7/26,567273.0,567273.0,ryan watson|28,True
+BOS,"Rogers, Jake",jake rogers,trade,"from Baltimore, 8/3/26 trade",-667647.0,-667647.0,jake rogers|31,True
+BOS,"Narvaez, Carlos",carlos narvaez,trade,traded to Baltimore 8/3/26,564706.0,564706.0,carlos narvaez|27,True
+BOS,"Mayer, Marcelo",marcelo mayer,trade,traded to San Francisco 8/3/26,553059.0,553059.0,marcelo mayer|23,True
+BOS,"Uberstine, Tyler",tyler uberstine,trade,traded to Atlanta 8/3/26,97136.0,97136.0,tyler uberstine|27,True
+BOS,"Early, Connelly",connelly early,trade,paid before 7/26/26 trade to Wash.,523519.0,523519.0,connelly early|24,True
+BOS,"Contreras, Willson",willson contreras,bonus,award bonus - All Star,50000.0,50000.0,willson contreras|34,True
+BOS,"Coulombe, Daniel",daniel coulombe,released,released 7/18/26,1000000.0,1000000.0,,False
+BOS,"Coulombe, Daniel",daniel coulombe,bonus,roster bonus - 107 days,750000.0,750000.0,,False
+BOS,"Anderson, Jack",jack anderson,claimed,claimed by Minnesota 7/11/26,91914.0,91914.0,jack anderson|26,True
+BOS,"Kahnle, Tommy",tommy kahnle,outrighted,outrighted 7/3/26,240642.0,240642.0,,False
+BOS,"Hicks, Jordan",jordan hicks,trade,"to Chicago White Sox, 2/1/26 trade",4000000.0,4000000.0,jordan hicks|29,True
+BOS,"Hicks, Jordan",jordan hicks,other,CBT true-up for 2025,,983351.0,jordan hicks|29,True
+BOS,"Contreras, Willson",willson contreras,trade,"from St. Louis, 12/21/25 trade",-2000000.0,-4000000.0,willson contreras|34,True
+BOS,"Watson, Ryan",ryan watson,trade,"to Athletics, 12/10/26",,100000.0,ryan watson|28,True
+BOS,"Gray, Sonny",sonny gray,trade,"from St. Louis, 11/25/25 trade",-20000000.0,-20000000.0,sonny gray|36,True
+BOS,"Devers, Rafael",rafael devers,bonus,"signing bonus, 1/11/23 contract",2000000.0,2000000.0,rafael devers|29,True
+BOS,"Devers, Rafael",rafael devers,other,"True-up $17,621,938 / 8.5645 thru 2033",,2057552.0,rafael devers|29,True
+BOS,"Buehler, Walker",walker buehler,buyout,2026 buyout,3000000.0,,walker buehler|31,False
+BOS,"Duran, Jarren",jarren duran,buyout,2026 buyout,100000.0,,jarren duran|29,False
+BOS,"Giolito, Lucas",lucas giolito,buyout,2026 buyout,1500000.0,,lucas giolito|31,False
+BOS,"Hendriks, Liam",liam hendriks,buyout,2026 buyout,2000000.0,,,False
+BAL,"Kittredge, Andrew",andrew kittredge,bonus,performance bonuses - games,250000.0,250000.0,andrew kittredge|36,True
+BAL,"Raquet, Nick",nick raquet,released,released 9/1/26,152285.0,152285.0,,False
+BAL,"Weston, Cameron",cameron weston,claimed,claimed by NY Mets 9/3/26,87557.0,87557.0,cameron weston|25,True
+BAL,"Vazquez, Luis",luis vazquez,outrighted,outrighted 9/3/26,17915.0,17915.0,,False
+BAL,"Wells, Tyler",tyler wells,trade,traded to Tampa Bay 8/3/26,1732941.0,1732941.0,tyler wells|31,True
+BAL,"Ward, Taylor",taylor ward,trade,traded to Seattle 8/3/26,8594118.0,8594118.0,taylor ward|32,True
+BAL,"Rutschman, Adley",adley rutschman,trade,traded to Boston 8/3/26,5117647.0,5117647.0,adley rutschman|28,True
+BAL,"Rogers, Jake",jake rogers,trade,"to Boston, 8/3/26 trade",667647.0,667647.0,jake rogers|31,True
+BAL,"Rogers, Jake",jake rogers,trade,traded to Boston 8/3/26,65241.0,65241.0,jake rogers|31,True
+BAL,"Heuer, Codi",codi heuer,trade,"to Milwaukee, 8/3/26 trade",100000.0,100000.0,codi heuer|29,True
+BAL,"Hinds, Rece",rece hinds,trade,"to Miami, 8/3/26 trade",100000.0,100000.0,rece hinds|25,True
+BAL,"Kremer, Dean",dean kremer,trade,traded to Minnesota 8/1/26,3997326.0,3997326.0,dean kremer|30,True
+BAL,"Tromp, Chadwick",chadwick tromp,outrighted,outrighted 8/4/26,141177.0,141177.0,,False
+BAL,"Huff, Sam",sam huff,outrighted,outrighted 8/1/26,202781.0,202781.0,,False
+BAL,"Rodriguez, Johnathan",johnathan rodriguez,trade,"from Pittsburgh, 7/27/26 trade",-100000.0,-100000.0,johnathan rodriguez|26,True
+BAL,"Rodriguez, Johnathan",johnathan rodriguez,trade,traded to Pittsburgh 7/27/26,164369.0,164369.0,johnathan rodriguez|26,True
+BAL,"Martin Jr., Rudy",rudy martin jr,claimed,claimed by Toronto 7/23/26,25027.0,25027.0,rudy martin jr|30,True
+BAL,"Sanders, Cam",cam sanders,trade,"to Pittsburgh, 7/13/26 trade",100000.0,100000.0,cam sanders|29,True
+BAL,"Rutschman, Adley",adley rutschman,bonus,award bonus - All Star,50000.0,50000.0,adley rutschman|28,True
+BAL,"Keegan, Dom",dom keegan,outrighted,outrighted 7/4/26,2381.0,2381.0,,False
+BAL,"Nicolas, Kyle",kyle nicolas,trade,traded to Washington 7/1/26,38535.0,38535.0,kyle nicolas|27,True
+BAL,"Siani, Michael",michael siani,outrighted,outrighted 6/25/26,43787.0,43787.0,,False
+BAL,"Wilson, Weston",weston wilson,outrighted,outrighted 6/12/26,257701.0,257701.0,weston wilson|31,False
+BAL,"Nunez, Eduarniel",eduarniel nunez,claimed,claimed by Chicago Cubs 6/8/26,16312.0,16312.0,,False
+BAL,"Nicolas, Kyle",kyle nicolas,trade,"to Cincinnati, 6/4/26 trade",100000.0,100000.0,kyle nicolas|27,True
+BAL,"Enns, Dietrich",dietrich enns,outrighted,outrighted 5/31/26,2625000.0,2625000.0,,False
+BAL,"Handley, Maverick",maverick handley,claimed,claimed by Atlanta 5/21/26,78627.0,78627.0,,False
+BAL,"Espada, Jose",jose espada,outrighted,outrighted 5/21/26,56879.0,56879.0,,False
+BAL,"Trivino, Lou",lou trivino,outrighted,"outrighted, elected FA 5/12/26",84225.0,84225.0,,False
+BAL,"Roa, Christian",christian roa,claimed,claimed by Chicago NL 5/17/26,4758.0,4758.0,,False
+BAL,"Nunez, Eduarniel",eduarniel nunez,trade,"to Athletics, 5/15/26 trade",100000.0,100000.0,,False
+BAL,"Sandridge, Jayvien",jayvien sandridge,outrighted,outrighted 4/19/26,14273.0,14273.0,,False
+BAL,"McDermott, Chayce",chayce mcdermott,trade,traded to LA Dodgers 4/16/26,17961.0,17961.0,chayce mcdermott|27,True
+BAL,"Encarnacion-Strand, Christian",christian encarnacion strand,trade,"to Cincinnati, 4/13/26 trade",100000.0,100000.0,christian encarnacion strand|26,True
+BAL,"Sandridge, Jayvien",jayvien sandridge,trade,to LA Angels 3/29/26 trade,100000.0,100000.0,,False
+BAL,"Kowar, Jackson",jackson kowar,outrighted,outrighted 3/26/26,8556.0,8556.0,,False
+BAL,"Ramos, Bryan",bryan ramos,outrighted,outrighted 3/26/26,8556.0,8556.0,,False
+BAL,"Ramos, Bryan",bryan ramos,trade,"to Chicago AL, 2/1/26 trade",100000.0,100000.0,,False
+BAL,"Kowar, Jackson",jackson kowar,trade,"to Minnesota, 2/14/26 trade",100000.0,100000.0,,False
+BAL,"Kittredge, Andrew",andrew kittredge,trade,"to Chicago Cubs, 11/4/25 trade",,100000.0,andrew kittredge|36,True
+BAL,"Kittredge, Andrew",andrew kittredge,cbt_credit,"CBT credit, unpaid buyout",,-682796.0,andrew kittredge|36,True
+TBR,"Woodford, Jake",jake woodford,dfa,DFA 9/25/26,16684.0,16684.0,,False
+TBR,"Fraley, Jake",jake fraley,released,released 9/22/26,3000000.0,3000000.0,,False
+TBR,"Grove, Michael",michael grove,claimed,claimed by Atlanta 9/15/26,523850.0,523850.0,michael grove|29,True
+TBR,"Bigge, Hunter",hunter bigge,claimed,claimed by Athletics 9/11/26,467165.0,467165.0,hunter bigge|28,True
+TBR,"Dunn, Oliver",oliver dunn,outrighted,outrighted 9/8/26,141439.0,141439.0,,False
+TBR,"Roycroft, Chris",chris roycroft,claimed,claimed by Athletics 8/25/26,200042.0,200042.0,chris roycroft|29,True
+TBR,"Martin, Trevor",trevor martin,claimed,claimed by LA Angels 8/15/26,177283.0,177283.0,trevor martin|25,True
+TBR,"Wilson, Steven",steven wilson,outrighted,outrighted 8/9/26,1520000.0,1520000.0,,False
+TBR,"Solesky, Chase",chase solesky,claimed,claimed by Cincinnati 8/6/26,53576.0,53576.0,chase solesky|28,True
+TBR,"Suwinski, Jack",jack suwinski,trade,trade from LA Dodgers 8/3/26,367647.0,0.0,,False
+TBR,"Feduccia, Hunter",hunter feduccia,trade,traded to LA Dodgers 8/3/26,552000.0,552000.0,hunter feduccia|29,True
+TBR,"Kimbrel, Craig",craig kimbrel,outrighted,outrighted 8/6/26,975936.0,975936.0,craig kimbrel|38,False
+TBR,"Keegan, Dominic",dominic keegan,trade,traded to Baltimore 7/1/26,31970.0,31970.0,,False
+TBR,"Slater, Austin",austin slater,outrighted,"outrighted, elecetd FA 6/22/26",62567.0,62567.0,,False
+TBR,"Wantz, Andrew",andrew wantz,outrighted,outrighted 6/2/26,21390.0,21390.0,,False
+TBR,"Heasley, Jonathan",jonathan heasley,outrighted,outrighted 5/30/26,16898.0,16898.0,,False
+TBR,"Rock, Joe",joe rock,trade,traded to Chicago AL 5/19/26,45045.0,45045.0,joe rock|25,True
+TBR,"Brooks, Aaron",aaron brooks,outrighted,outrighted 5/16/26,34225.0,34225.0,,False
+TBR,"Malloy, Justyn-Henry",justyn henry malloy,outrighted,outrighted 5/11/26,53996.0,53996.0,,False
+TBR,"Gomez, Yoendrys",yoendrys gomez,trade,"from Minnesota, 5/6/26 trade",-100000.0,-100000.0,yoendrys gomez|26,True
+TBR,"Gomez, Yoendrys",yoendrys gomez,trade,traded to Minnesota 5/6/26,180048.0,180048.0,yoendrys gomez|26,True
+TBR,"Wisely, Brett",brett wisely,trade,"from Atlanta, 2/10/26 trade",-100000.0,-100000.0,,False
+TBR,"Malloy, Justyn-Henry",justyn henry malloy,trade,"to Detroit, 1/6/26 trade",100000.0,100000.0,,False
+TBR,"Fairbanks, Pete",pete fairbanks,buyout,buyout of 2026 option,1000000.0,,pete fairbanks|32,False
+TBR,"Wilcox, Cole",cole wilcox,trade,"from Seattle, 11/5/25 trade",,-100000.0,cole wilcox|26,True
+TBR,"Gerber, Joey",joey gerber,trade,"from NY Mets, 11/4/25 trade",,-100000.0,,False
+TBR,"Vilade, Ryan",ryan vilade,trade,"to Cincinnati, 11/3/25 trade",,100000.0,ryan vilade|27,True
+TBR,"Lowe, Brandon",brandon lowe,cbt_credit,"CBT credit, unpaid '26 buyout",,-500000.0,brandon lowe|31,True
+TBR,"Glasnow, Tyler",tyler glasnow,trade,"to LA Dodgers, 12/16/23 trade",2000000.0,-800000.0,tyler glasnow|32,True
+TBR,"Franco, Wander",wander franco,bonus,"signing bonus, prorated 2022-32",454545.0,,,False
+DET,"Rainey, Tanner",tanner rainey,outrighted,outrighted 9/2/26,122995.0,122995.0,,False
+DET,"Vanasco, Ricky",ricky vanasco,claimed,claimed by Atlanta 8/26/26,152843.0,152843.0,ricky vanasco|27,True
+DET,"Outman, James",james outman,outrighted,outrighted 8/25/26,332112.0,332112.0,,False
+DET,"Cruz, Trei",trei cruz,outrighted,outrighted 8/18/26,137229.0,137229.0,,False
+DET,"Watson, Troy",troy watson,claimed,claimed by Seattle 8/15/26,116792.0,116792.0,troy watson|29,True
+DET,"Mize, Casey",casey mize,trade,traded to San Diego 8/3/26,4341176.0,4341176.0,casey mize|29,True
+DET,"Workman, Gage",gage workman,trade,traded to San Diego 8/3/26,131773.0,131773.0,gage workman|26,True
+DET,"Skubal, Tarik",tarik skubal,trade,traded to LA Dodgers 8/2/26,22417112.0,22417112.0,tarik skubal|29,True
+DET,"Granillo, Andre",andre granillo,outrighted,outrighted 8/4/26,16312.0,16312.0,,False
+DET,"Rogers, Jake",jake rogers,trade,traded to Atlanta 7/30/26,2087701.0,2087701.0,jake rogers|31,True
+DET,"Jones, Jahmai",jahmai jones,trade,traded to Boston 7/14/26,498430.0,498430.0,jahmai jones|28,True
+DET,"Short, Zack",zack short,claimed,claimed by NY Mets 6/15/26,188236.0,188236.0,,False
+DET,"Seabold, Connor",connor seabold,trade,traded to Toronto 5/27/26,273797.0,273797.0,connor seabold|30,True
+DET,"Holman, Grant",grant holman,claimed,claimed by Philadelphia 5/7/26,26514.0,26514.0,grant holman|26,True
+DET,"Curet, Yoniel",yoniel curet,outrighted,outrighted 5/7/26,16312.0,16312.0,,False
+DET,"Smith, Dylan",dylan smith,trade,"from San Francisco, 3/30/26 trade",-100000.0,-100000.0,dylan smith|26,True
+DET,"Smith, Dylan",dylan smith,trade,traded to San Francisco 3/30/26,4078.0,4078.0,dylan smith|26,True
+DET,"Malloy, Justyn-Henry",justyn henry malloy,trade,"from Tampa Bay, 1/6/26 trade",-100000.0,-100000.0,,False
+DET,"Brebbia, John",john brebbia,buyout,2026 buyout,500000.0,,,False
+DET,"Dobnak, Randy",randy dobnak,buyout,"2026 buyout, paid 11/4/25",1000000.0,,randy dobnak|31,False
+DET,"Sewald, Paul",paul sewald,buyout,"2026 buyout, paid 11/6/25",1000000.0,,paul sewald|36,False
+DET,"Rodriguez, Eduardo",eduardo rodriguez,other,"CBT adjustment, 2024 opt-out",,-933333.0,eduardo rodriguez|33,True
+KCR,"Waters, Drew",drew waters,outrighted,outrighted 9/4/26,16898.0,16898.0,,False
+KCR,"Schreiber, John",john schreiber,claimed,claimed by NY Yankees 8/31/26,3178610.0,3178610.0,john schreiber|32,True
+KCR,"Marte, Starling",starling marte,bonus,performance bonuses - PAs,250000.0,250000.0,,False
+KCR,"Marte, Starling",starling marte,bonus,roster bonuses,750000.0,750000.0,,False
+KCR,"Lange, Alex",alex lange,bonus,performance bonuses - games,100000.0,100000.0,alex lange|30,True
+KCR,"Marte, Starling",starling marte,released,released 8/19/26,1000000.0,1000000.0,,False
+KCR,"Morgan, Eli",eli morgan,outrighted,outrighted 8/16/26,453129.0,453129.0,,False
+KCR,"Strahm, Matt",matt strahm,released,released 8/8/26,7500000.0,7500000.0,,False
+KCR,"Bummer, Aaron",aaron bummer,other,"optioned, elected FA 8/7/26",25027.0,25027.0,,False
+KCR,"Velazquez, Andrew",andrew velazquez,outrighted,outrighted 8/5/26,64171.0,64171.0,,False
+KCR,"Bubic, Kris",kris bubic,trade,traded to LA Dodgers 8/3/26,4341176.0,4341176.0,kris bubic|28,True
+KCR,"Falter, Bailey",bailey falter,trade,traded to Atlanta 8/2/26,2521925.0,2521925.0,,False
+KCR,"Thomas, Lane",lane thomas,trade,traded to Atlanta 8/2/26,3677807.0,3677807.0,lane thomas|30,True
+KCR,"Thomas, Lane",lane thomas,bonus,performance bonus-PA 328,190590.0,190590.0,lane thomas|30,True
+KCR,"Thomas, Lane",lane thomas,bonus,performance bonuses - games 97,259452.0,259452.0,lane thomas|30,True
+KCR,"Wacha, Michael",michael wacha,bonus,award bonus - All Star,50000.0,50000.0,michael wacha|35,True
+KCR,"Witt Jr., Bobby",bobby witt jr,bonus,award bonus - All Star,50000.0,50000.0,bobby witt jr|26,True
+KCR,"Misner, Kameron",kameron misner,trade,"from Philadelphia, 7/25/26 trade",-100000.0,-100000.0,kameron misner|28,True
+KCR,"Misner, Kameron",kameron misner,dfa,DFA 7/22/26,308190.0,308190.0,kameron misner|28,True
+KCR,"McGee, Easton",easton mcgee,trade,"to Milwaukee, 7/14/26 trade",100000.0,100000.0,easton mcgee|28,True
+KCR,"Cerantola, Eric",eric cerantola,claimed,claimed by San Francisco 7/6/26,98618.0,98618.0,,False
+KCR,"Seabold, Connor",connor seabold,trade,"to Toronto, 6/15/26 trade",100000.0,100000.0,connor seabold|30,True
+KCR,"Diaz, Elias",elias diaz,outrighted,outrighted 5/26/26,406417.0,406417.0,elias diaz|35,False
+KCR,"Grichuk, Randal",randal grichuk,buyout,2026 buyout,1500000.0,,randal grichuk|34,False
+KCR,"Lorenzen, Michael",michael lorenzen,buyout,2026 buyout,3000000.0,,michael lorenzen|34,False
+MIN,"Hoffman, Jeff",jeff hoffman,bonus,performance bonus - innings,100000.0,100000.0,jeff hoffman|33,True
+MIN,"Jackson, Alex",alex jackson,outrighted,outrighted 9/23/26,1350000.0,1350000.0,,False
+MIN,"Fedko, Kyler",kyler fedko,released,released 9/1/26,140981.0,140981.0,,False
+MIN,"Go, Woo Suk",woo suk go,outrighted,outrighted 8/30/26,159358.0,159358.0,,False
+MIN,"Rashi, Taylor",taylor rashi,claimed,claimed by Athletics 8/9/26,42140.0,42140.0,,False
+MIN,"Laweryson, Cody",cody laweryson,released,released 8/4/26,142390.0,142390.0,,False
+MIN,"Klein, John",john klein,trade,traded to Toronto 8/3/26,101254.0,101254.0,john klein|24,True
+MIN,"Hoffman, Jeff",jeff hoffman,trade,"from Toronto, 8/3/26 trade",,,jeff hoffman|33,True
+MIN,"Voth, Austin",austin voth,outrighted,outrighted 6/26/26,32086.0,32086.0,,False
+MIN,"Lawrence, Justin",justin lawrence,claimed,claimed by Washington 6/24/26,150668.0,150668.0,,False
+MIN,"Arcia, Orlando",orlando arcia,outrighted,outrighted 6/18/26,207219.0,207219.0,,False
+MIN,"Outman, James",james outman,claimed,claimed by Detroit 6/11/26,336933.0,336933.0,,False
+MIN,"Rashi, Taylor",taylor rashi,trade,"to Arizona, 6/8/26 trade",100000.0,100000.0,,False
+MIN,"Woods-Richardson, Simeon",simeon woods richardson,trade,"from Toronto, 6/3/26 trade",-100000.0,-100000.0,,False
+MIN,"Woods-Richardson, Simeon",simeon woods richardson,trade,traded to Toronto 6/3/26,302320.0,302320.0,,False
+MIN,"Lawrence, Justin",justin lawrence,trade,"to Pittsburgh, 6/2/26 trade",100000.0,100000.0,,False
+MIN,"Garcia, Luis",luis garcia,outrighted,outrighted 5/25/26,116791.0,116791.0,,False
+MIN,"Topa, Justin",justin topa,released,"released 5/23/26, less NYA portion",1083182.0,1083182.0,,False
+MIN,"Roa, Christian",christian roa,claimed,claimed by Baltimore 5/10/26,11555.0,11555.0,,False
+MIN,"Gomez, Yoendrys",yoendrys gomez,trade,"to Tampa Bay, 5/6/26 trade",100000.0,100000.0,yoendrys gomez|26,True
+MIN,"Kent, Zak",zak kent,claimed,claimed by Washington 5/3/26,81090.0,81090.0,zak kent|28,True
+MIN,"Wagaman, Eric",eric wagaman,claimed,claimed by NY Mets 4/27/26,70000.0,70000.0,eric wagaman|28,True
+MIN,"Kowar, Jackson",jackson kowar,trade,"from Baltimore, 2/14/26 trade",-100000.0,-100000.0,,False
+MIN,"Ohl, Pierson",pierson ohl,trade,"from Colorado, 1/28/26 trade",-100000.0,-100000.0,pierson ohl|26,True
+MIN,"Pereda, Jhonny",jhonny pereda,trade,"from Seattle, 1/27/26 trade",-100000.0,-100000.0,jhonny pereda|30,True
+MIN,"Brujan, Vidal",vidal brujan,trade,"from NY Mets, 1/22/26 trade",-100000.0,-100000.0,,False
+MIN,"Topa, Justin",justin topa,buyout,buyout of 2026 option,225000.0,,,False
+MIN,"Correa, Carlos",carlos correa,trade,"to Houston, 7/31/25 trade",10000000.0,10000000.0,carlos correa|31,True
+MIN,"Correa, Carlos",carlos correa,bonus,signing bonus,1333333.0,1333333.0,carlos correa|31,True
+MIN,"Correa, Carlos",carlos correa,other,"CBT true-up charge, 2026-28",,2357645.0,carlos correa|31,True
+CWS,"Kay, Anthony",anthony kay,bonus,performance bonus - innings,375000.0,375000.0,anthony kay|31,True
+CWS,"Newcomb, Sean",sean newcomb,bonus,performance bonus - innings,400000.0,400000.0,sean newcomb|33,True
+CWS,"Urquidy, Jose",jose urquidy,claimed,claimed by Philadelphia 9/17/26,425134.0,425134.0,,False
+CWS,"Gilbert, Tyler",tyler gilbert,outrighted,outrighted 9/3/26,555705.0,555705.0,,False
+CWS,"Rock, Joe",joe rock,claimed,claimed by Athletics 8/16/26,301401.0,301401.0,joe rock|25,True
+CWS,"Gonzalez, Wikelman",wikelman gonzalez,claimed,claimed by Miami 8/10/26,189025.0,189025.0,wikelman gonzalez|24,True
+CWS,"Hays, Austin",austin hays,released,released 8/7/26 less SD portion,4791444.0,5791444.0,austin hays|30,False
+CWS,"Davitt, Duncan",duncan davitt,trade,traded to Atlanta 8/3/26,147470.0,147470.0,duncan davitt|26,True
+CWS,"Pereira, Everson",everson pereira,claimed,claimed by St. Louis 8/6/26,565484.0,565484.0,everson pereira|25,True
+CWS,"Dominguez, Seranthony",seranthony dominguez,trade,traded to Seattle 8/1/26,5866310.0,5866310.0,seranthony dominguez|31,True
+CWS,"Eisert, Brandon",brandon eisert,trade,traded to Pittsburgh 7/11/26,358672.0,358672.0,brandon eisert|28,True
+CWS,"Gonzalez, Jacob",jacob gonzalez,trade,traded to Pittsburgh 7/11/26,216555.0,216555.0,jacob gonzalez|24,True
+CWS,"Hill, Derek",derek hill,trade,traded to Philadelphia 6/11/26,380214.0,380214.0,derek hill|30,True
+CWS,"Kelenic, Jarred",jarred kelenic,outrighted,outrighted 5/30/26,171123.0,171123.0,,False
+CWS,"Bido, Osvaldo",osvaldo bido,outrighted,outrighted 5/9/26,90730.0,90730.0,,False
+CWS,"Richards, Trevor",trevor richards,trade,"to Philadelphia, 5/5/26 trade",100000.0,100000.0,trevor richards|33,True
+CWS,"Nikhazy, Doug",doug nikhazy,claimed,claimed by Chicago Cubs 4/28/26,21936.0,21936.0,,False
+CWS,"McGuire, Reese",reese mcguire,outrighted,outrighted 4/27/26,1200000.0,1200000.0,,False
+CWS,"Sims, Lucas",lucas sims,outrighted,outrighted 4/25/26,167112.0,167112.0,,False
+CWS,"Harris, Dustin",dustin harris,claimed,claimed by Houston 4/18/26,50054.0,50054.0,dustin harris|26,True
+CWS,"Sosa, Lenyn",lenyn sosa,trade,traded to Toronto 4/13/26,85941.0,85941.0,,False
+CWS,"Paez, Jedixson",jedixson paez,other,returned to Boston 4/4/26,45882.0,45882.0,jedixson paez|22,True
+CWS,"Mead, Curtis",curtis mead,claimed,claimed by Washington 3/28/26,16898.0,16898.0,curtis mead|25,True
+CWS,"Hudson, Bryan",bryan hudson,trade,"from NY Mets, 2/10/26 trade",-100000.0,-100000.0,bryan hudson|29,True
+CWS,"Ramos, Bryan",bryan ramos,trade,"from Baltimore, 2/1/26 trade",-100000.0,-100000.0,,False
+CWS,"Hicks, Jordan",jordan hicks,trade,"from Boston, 2/1/26 trade",-4000000.0,-4000000.0,jordan hicks|29,True
+CWS,"Perez, Martin",martin perez,buyout,2026 buyout,1500000.0,,martin perez|35,False
+CWS,"Robert Jr., Luis",luis robert jr,cbt_credit,"CBT credit, unpaid buyout",,-2000000.0,luis robert jr|28,True
+CLE,"Hoskins, Rhys",rhys hoskins,bonus,performance bonus - plate appearances,900000.0,900000.0,rhys hoskins|33,True
+CLE,"Brogdon, Connor",connor brogdon,dfa,DFA 9/23/26,900000.0,900000.0,,False
+CLE,"Hernandez, Carlos",carlos hernandez,outrighted,outrighted 9/6/26,36898.0,36898.0,,False
+CLE,"Arias, Gabriel",gabriel arias,claimed,claimed by NY Mets 8/7/26,578334.0,578334.0,gabriel arias|26,True
+CLE,"Dion, Will",will dion,trade,traded to Washington 8/3/26,180253.0,180253.0,will dion|26,True
+CLE,"Brito, Juan",juan brito,trade,"from Cincinnati, 8/3/26 trade",-100000.0,-100000.0,juan brito|24,True
+CLE,"Brito, Juan",juan brito,trade,traded to Cincinnati 8/3/26,238542.0,238542.0,juan brito|24,True
+CLE,"Heuer, Codi",codi heuer,trade,traded to Milwaukee 8/1/26,326738.0,326738.0,codi heuer|29,True
+CLE,"Naylor, Bo",bo naylor,trade,traded to Milwaukee 8/1/26,378119.0,378119.0,bo naylor|26,True
+CLE,"Fairchild, Stuart",stuart fairchild,outrighted,outrighted 7/3/26,182888.0,182888.0,,False
+CLE,"Valera, George",george valera,outrighted,outrighted 6/21/26,222562.0,222562.0,,False
+CLE,"Pallette, Peyton",peyton pallette,dfa,DFA 5/24/26,279465.0,279465.0,,False
+CLE,"Allard, Kolby",kolby allard,outrighted,outrighted 4/16/26,96257.0,96257.0,,False
+CLE,"Nikhazy, Doug",doug nikhazy,claimed,claimed by Chicago AL 4/6/26,8156.0,8156.0,,False
+CLE,"Rodriguez, Johnathan",johnathan rodriguez,trade,traded to Baltimore 3/29/26,3999.0,3999.0,johnathan rodriguez|26,True
+CLE,"Jones, Nolan",nolan jones,outrighted,outrighted 3/20/26,2000000.0,2000000.0,,False
+CLE,"Clase, Emmanuel",emmanuel clase,other,on unpaid leave / restricted list,-6000000.0,-4000000.0,emmanuel clase|28,True
+CLE,"Stephan, Trevor",trevor stephan,outrighted,outrighted 8/15/25,3500000.0,3500000.0,,False
+CLE,"Bieber, Shane",shane bieber,buyout,"credit, unpaid '26 buyout (pro-rated)",,-2731183.0,shane bieber|31,False
+CLE,"Gimenez, Andres",andres gimenez,cbt_credit,"CBT credit ($20,428,572 / 5)",,-4085714.0,andres gimenez|27,True
+CLE,"Gimenez, Andres",andres gimenez,bonus,"signing bonus, paid before trade",571429.0,,andres gimenez|27,True
+CLE,"Straw, Myles",myles straw,cbt_credit,CBT credit ($5.25 / 2),,-2375000.0,myles straw|31,True
+CLE,"Straw, Myles",myles straw,bonus,"signing bonus, paid before trade",400000.0,,myles straw|31,True
+CLE,"Straw, Myles",myles straw,outrighted,"outrighted 11/1/24, paid in 1/17/25 trade",1000000.0,1000000.0,myles straw|31,False
+HOU,"De Los Santos, Enyel",enyel de los santos,bonus,performance bonus - games,100000.0,100000.0,enyel de los santos|30,True
+HOU,"Alexander, Jason",jason alexander,outrighted,outrighted 9/27/26,226098.0,226098.0,,False
+HOU,"Velazquez, Nelson",nelson velazquez,outrighted,outrighted 8/23/26,62567.0,62567.0,nelson velazquez|27,False
+HOU,"Whitcomb, Shay",shay whitcomb,claimed,claimed by San Francisco 8/13/26,236218.0,236218.0,shay whitcomb|27,True
+HOU,"Varsho, Daulton",daulton varsho,trade,"from Toronto, 8/3/26 trade",-1609626.0,-1609626.0,daulton varsho|28,True
+HOU,"Arrighetti, Spencer",spencer arrighetti,trade,traded to Toronto 8/3/26,519461.0,519461.0,spencer arrighetti|26,True
+HOU,"Pearson, Nate",nate pearson,claimed,claimed by Kansas City 7/22/26,866310.0,866310.0,nate pearson|29,True
+HOU,"McCullers Jr., Lance",lance mccullers jr,trade,traded to Milwaukee 7/15/26,15200000.0,14500000.0,,False
+HOU,"Gordon, Colton",colton gordon,trade,traded to Milwaukee 7/15/26,161306.0,161306.0,colton gordon|27,True
+HOU,"Shewmake, Braden",braden shewmake,trade,"from Milwaukee, 7/12/26 trade",-100000.0,-100000.0,,False
+HOU,"Shewmake, Braden",braden shewmake,trade,traded to Milwaukee 7/12/26,354546.0,354546.0,,False
+HOU,"Murray, Jayden",jayden murray,trade,traded to Chicago Cubs 6/20/26,175030.0,175030.0,jayden murray|29,True
+HOU,"Weiss, Ryan",ryan weiss,outrighted,outrighted 6/17/26,2100000.0,2600000.0,,False
+HOU,"Salazar, Cesar",cesar salazar,outrighted,outrighted 6/6/26,156310.0,156310.0,,False
+HOU,"Thomas, Rhylan",rhylan thomas,released,released 6/5/26,18351.0,18351.0,,False
+HOU,"Bolton, Cody",cody bolton,outrighted,outrighted 5/21/26,221070.0,221070.0,,False
+HOU,"Harris, Dustin",dustin harris,outrighted,outrighted 5/8/26,83423.0,83423.0,dustin harris|26,False
+HOU,"Johnson, Daniel",daniel johnson,outrighted,outrighted 5/6/26,67594.0,67594.0,,False
+HOU,"Roa, Christian",christian roa,claimed,claimed by Minnesota 4/23/26,88381.0,88381.0,,False
+HOU,"France, J.P.",jp france,outrighted,outrighted 4/20/26,42301.0,42301.0,,False
+HOU,"Munoz, Roddery",roddery munoz,outrighted,outrighted 4/9/26,72727.0,72727.0,,False
+HOU,"Correa, Carlos",carlos correa,trade,"from Minnesota, 7/31/25 trade",-10000000.0,-10000000.0,carlos correa|31,True
+HOU,"Correa, Carlos",carlos correa,bonus,signing bonus paid by Minnesota,-1333333.0,,carlos correa|31,True
+TEX,"Alexander, Tyler",tyler alexander,bonus,performance bonus - innings,200000.0,200000.0,tyler alexander|31,True
+TEX,"Beeks, Jalen",jalen beeks,bonus,performance bonus - games,325000.0,325000.0,jalen beeks|32,True
+TEX,"Diaz, Elias",elias diaz,bonus,performance bonus - plate appearances,100000.0,100000.0,elias diaz|35,True
+TEX,"Jansen, Danny",danny jansen,bonus,performance bonus - games,200000.0,200000.0,danny jansen|31,True
+TEX,"Kelenic, Jarred",jarred kelenic,outrighted,outrighted 8/25/26,149733.0,149733.0,,False
+TEX,"Wynns, Austin",austin wynns,outrighted,outrighted 8/20/26,129305.0,129305.0,,False
+TEX,"Gonzales, Marco",marco gonzales,outrighted,outrighted 8/18/26,136364.0,136364.0,,False
+TEX,"Curvelo, Luis",luis curvelo,outrighted,outrighted 8/17/26,295360.0,295360.0,,False
+TEX,"Bride, Jonah",jonah bride,outrighted,outrighted 8/13/26,21123.0,21123.0,,False
+TEX,"Kingham, Nolan",nolan kingham,claimed,claimed by Seattle 8/10/26,41711.0,41711.0,,False
+TEX,"Martin, Chris",chris martin,released,released 8/8/26,4000000.0,4000000.0,,False
+TEX,"Smith, Josh H.",josh h smith,trade,traded to Toronto 8/3/26,2276471.0,2276471.0,josh h smith|28,True
+TEX,"Paddack, Chris",chris paddack,outrighted,outrighted 7/2/26,16684.0,16684.0,,False
+TEX,"Ross, Joe",joe ross,outrighted,outrighted 7/1/26,79251.0,79251.0,,False
+TEX,"Crim, Blaine",blaine crim,released,released 6/24/26,21750.0,21750.0,,False
+TEX,"Haggerty, Sam",sam haggerty,released,released 6/7/26,1250000.0,1250000.0,,False
+TEX,"McCutchen, Andrew",andrew mccutchen,released,released 5/28/26,1500000.0,1500000.0,,False
+TEX,"MacIver, Willie",willie maciver,trade,"from Toronto, 4/24/26 trade",-100000.0,-100000.0,willie maciver|29,True
+TEX,"MacIver, Willie",willie maciver,trade,traded to Toronto 4/24/26,33485.0,33485.0,willie maciver|29,True
+TEX,"Church, Marc",marc church,outrighted,outrighted 4/22/26,19711.0,19711.0,,False
+TEX,"Blanco, Dairon",dairon blanco,outrighted,outrighted 3/30/26,8159.0,8159.0,,False
+TEX,"Diaz, Alexis",alexis diaz,outrighted,outrighted 3/15/26,1000000.0,1000000.0,,False
+TEX,"Baumier, Carter",carter baumier,trade,"to Pittsburgh, 12/10/25 trade",100000.0,100000.0,carter baumier|24,True
+TEX,"Nimmo, Brandon",brandon nimmo,trade,"from NY Mets, 11/23/25 trade",-5000000.0,-1000000.0,brandon nimmo|33,True
+LAA,"Anderson, Shaun",shaun anderson,outrighted,outrighted 9/2/26,128342.0,128342.0,,False
+LAA,"Fulmer, Michael",michael fulmer,outrighted,outrighted 8/25/26,58824.0,58824.0,michael fulmer|33,False
+LAA,"Soler, Jorge",jorge soler,released,released 8/6/26,16000000.0,12131035.0,,False
+LAA,"Yates, Kirby",kirby yates,trade,traded to Pittsburgh 8/3/26,3529412.0,3529412.0,kirby yates|39,True
+LAA,"Soriano, Jose",jose soriano,trade,traded to Toronto 8/3/26,2047059.0,2047059.0,jose soriano|27,True
+LAA,"Zeferjahn, Ryan",ryan zeferjahn,trade,traded to Chicago NL 8/3/26,550588.0,550588.0,ryan zeferjahn|28,True
+LAA,"Adell, Jo",jo adell,trade,traded to Cleveland 8/3/26,3670588.0,3670588.0,jo adell|27,True
+LAA,"Suter, Brent",brent suter,trade,traded to Atlanta 8/3/26,882353.0,882353.0,brent suter|36,True
+LAA,"O'Hoppe, Logan",logan ohoppe,trade,traded to Texas 7/29/26,1782754.0,1782754.0,logan ohoppe|26,True
+LAA,"Silseth, Chase",chase silseth,trade,traded to Texas 7/29/26,543316.0,543316.0,chase silseth|26,True
+LAA,"Walton, Donovan",donovan walton,claimed,claimed by Athletics 7/12/26,219679.0,219679.0,donovan walton|32,True
+LAA,"Madrigal, Nick",nick madrigal,outrighted,outrighted 6/25/26,216578.0,216578.0,nick madrigal|29,False
+LAA,"Mancini, Trey",trey mancini,outrighted,"outrighted 6/21/26, elected FA",74866.0,74866.0,,False
+LAA,"Pomeranz, Drew",drew pomeranz,released,"released 6/18/26, less CHN portion",3912406.0,3912406.0,,False
+LAA,"Heineman, Tyler",tyler heineman,trade,"to Toronto, 6/17/26 trade",100000.0,100000.0,tyler heineman|35,True
+LAA,"Martinez, Omar",omar martinez,outrighted,outrighted 6/13/26,46097.0,46097.0,,False
+LAA,"Lugo, Matthew",matthew lugo,claimed,claimed by Kansas City 6/2/26,46898.0,46898.0,matthew lugo|25,True
+LAA,"Manoah, Alek",alek manoah,outrighted,outrighted 5/20/26,1950000.0,1950000.0,,False
+LAA,"Sandlin, Nick",nick sandlin,outrighted,outrighted 5/6/26,200535.0,200535.0,,False
+LAA,"Lucchesi, Joey",joey lucchesi,outrighted,outrighted 5/1/26,165775.0,165775.0,,False
+LAA,"Romano, Jordan",jordan romano,released,"released 4/27/26, less COL portion",1758075.0,1758075.0,jordan romano|33,False
+LAA,"Candelario, Jeimer",jeimer candelario,outrighted,outrighted 4/13/26,79251.0,79251.0,,False
+LAA,"Mederos, Victor",victor mederos,trade,traded to Atlanta 4/3/26 O9,16285.0,16285.0,victor mederos|25,True
+LAA,"Sandridge, Jayvien",jayvien sandridge,trade,traded to Baltimore 3/29/26,3398.0,3398.0,,False
+LAA,"Newman, Kevin",kevin newman,buyout,2026 buyout,250000.0,,,False
+LAA,"White, Evan",evan white,buyout,2026 buyout,2000000.0,,,False
+LAA,"Rendon, Anthony",anthony rendon,bonus,pro-rated signing bonus,571429.0,571429.0,anthony rendon|36,True
+SEA,"Munoz, Andres",andres munoz,bonus,performance bonus - games finished,2000000.0,2000000.0,andres munoz|27,True
+SEA,"Fairchild, Stuart",stuart fairchild,outrighted,outrighted 9/11/26,81720.0,81720.0,,False
+SEA,"Joe, Connor",connor joe,outrighted,outrighted 9/3/26,422995.0,422995.0,,False
+SEA,"Kingham, Nolan",nolan kingham,outrighted,outrighted 9/3/26,16312.0,16312.0,,False
+SEA,"Diaz, Jhonathan",jhonathan diaz,outrighted,outrighted 8/24/26,25027.0,25027.0,,False
+SEA,"Garver, Mitch",mitch garver,released,released 8/4/26,2250000.0,2250000.0,,False
+SEA,"Refsnyder, Rob",rob refsnyder,released,released 8/4/26,6250000.0,6250000.0,,False
+SEA,"Hoppe, Alex",alex hoppe,trade,traded to Baltimore 8/3/26,345220.0,345220.0,alex hoppe|27,True
+SEA,"Castillo, Luis",luis castillo,trade,traded to Chicago White Sox 8/1/26,17215508.0,17215508.0,luis castillo|33,True
+SEA,"Kennedy, Buddy",buddy kennedy,claimed,claimed by San Francisco 8/2/26,141818.0,141818.0,,False
+SEA,"Mastrobuoni, Miles",miles mastrobuoni,outrighted,outrighted 7/21/26,478770.0,478770.0,,False
+SEA,"Kennedy, Buddy",buddy kennedy,trade,"to San Francisco, 6/29/26 trade",100000.0,100000.0,,False
+SEA,"Washington Jr., Curtis",curtis washington jr,outrighted,outrighted 6/20/26,6890.0,6890.0,,False
+SEA,"Gonzalez, Domingo",domingo gonzalez,outrighted,outrighted 6/15/26,101802.0,101802.0,,False
+SEA,"Zulueta, Yosver",yosver zulueta,trade,"from Chicago Cubs, 6/15/26 trade",-100000.0,-100000.0,yosver zulueta|28,True
+SEA,"Zulueta, Yosver",yosver zulueta,trade,traded to Chicago Cubs 6/15/26,56413.0,56413.0,yosver zulueta|28,True
+SEA,"Suarez, Jose",jose suarez,trade,"from Athletics, 5/14/26 trade",-100000.0,-100000.0,,False
+SEA,"Suarez, Jose",jose suarez,trade,traded to Atlanta 5/14/26,52941.0,52941.0,,False
+SEA,"Thomas, Rhylan",rhylan thomas,claimed,claimed by Houston 5/9/26,31265.0,31265.0,,False
+SEA,"Legumina, Casey",casey legumina,trade,traded to Tampa Bay 4/24/26,130614.0,130614.0,casey legumina|29,True
+SEA,"Castano, Blas",blas castano,claimed,claimed by Colorado 4/21/26,19031.0,19031.0,blas castano|26,True
+SEA,"Loutos, Ryan",ryan loutos,released,released 4/2/26,6117.0,6117.0,,False
+SEA,"Knizner, Andrew",andrew knizner,outrighted,"outrighted 3/25/26, less SF portion",799786.0,799786.0,andrew knizner|31,False
+SEA,"Simpson, Josh",josh simpson,trade,"to Miami, 2/16/26 trade",100000.0,100000.0,josh simpson|28,True
+SEA,"Pereda, Jhonny",jhonny pereda,trade,"to Minnesota, 1/28/26 trade",100000.0,100000.0,jhonny pereda|30,True
+SEA,"Criswell, Cooper",cooper criswell,trade,"to NY Mets, 1/23/26 trade",100000.0,100000.0,cooper criswell|29,True
+SEA,"Garver, Mitch",mitch garver,buyout,buyout of 2026 option,1000000.0,,,False
+SEA,"Polanco, Jorge",jorge polanco,buyout,buyout of 2026 option,750000.0,,jorge polanco|32,False
+SEA,"Wilcox, Cole",cole wilcox,trade,"to Tampa Bay, 11/5/25 trade",,100000.0,cole wilcox|26,True
+ATH,"Rashi, Taylor",taylor rashi,outrighted,outrighted 9/13/26,32904.0,32904.0,,False
+ATH,"Suarez, Jose",jose suarez,released,released 9/8/26,563102.0,563102.0,,False
+ATH,"Ornelas, Jonathan",jonathan ornelas,outrighted,outrighted 8/12/26,54225.0,54225.0,,False
+ATH,"Bowden, Ben",ben bowden,outrighted,outrighted 8/6/26,25348.0,25348.0,,False
+ATH,"Thomas, Connor",connor thomas,claimed,claimed by Kansas City 8/4/26,5099.0,5099.0,connor thomas|28,True
+ATH,"Thomas, Colby",colby thomas,trade,traded to Philadelphia 8/3/26,445123.0,445123.0,colby thomas|25,True
+ATH,"Zhuang, Chen Zhong-Ao",chen zhong ao zhuang,outrighted,outrighted 8/4/26,45234.0,45234.0,,False
+ATH,"Blewett, Scott",scott blewett,trade,"to St. Louis, 7/26/26 trade",100000.0,100000.0,scott blewett|30,True
+ATH,"Meneses, Joey",joey meneses,outrighted,outrighted 7/20/26,88280.0,88280.0,,False
+ATH,"Civale, Aaron",aaron civale,trade,to Chicago Cubs in 7/18/26 trade,1731925.0,1731925.0,aaron civale|31,True
+ATH,"Civale, Aaron",aaron civale,trade,paid before 7/18/26 trade,3721925.0,3721925.0,aaron civale|31,True
+ATH,"Langeliers, Shea",shea langeliers,bonus,award bonus - All Star,50000.0,50000.0,shea langeliers|28,True
+ATH,"Krook, Matt",matt krook,claimed,claimed by Washington 7/4/26,58396.0,58396.0,,False
+ATH,"Harris, Brett",brett harris,trade,traded to Boston 7/1/26,126972.0,126972.0,brett harris|28,True
+ATH,"Kelly, Michael",michael kelly,released,released 7/5/26,115214.0,115214.0,,False
+ATH,"Barlow, Scott",scott barlow,released,released 6/24/26,2000000.0,2000000.0,,False
+ATH,"Kuhnel, Joel",joel kuhnel,trade,traded to Milwaukee 6/6/26,257701.0,257701.0,joel kuhnel|31,True
+ATH,"Perez, Junior",junior perez,trade,traded to Chicago AL 5/16/26,18026.0,18026.0,junior perez|24,True
+ATH,"Nunez, Eduarniel",eduarniel nunez,trade,"to Baltimore, 5/15/26",-100000.0,-100000.0,,False
+ATH,"Nunez, Eduarniel",eduarniel nunez,trade,traded to Baltimore 5/15/26,35343.0,35343.0,,False
+ATH,"Suarez, Jose",jose suarez,trade,"to Seattle, 5/14/26 trade",100000.0,100000.0,,False
+ATH,"Ferguson, Tyler",tyler ferguson,trade,"from Chicago Cubs, 5/7/26 trade",-100000.0,-100000.0,tyler ferguson|32,True
+ATH,"Ferguson, Tyler",tyler ferguson,trade,traded to Chicago Cubs 5/7/26,61873.0,61873.0,tyler ferguson|32,True
+ATH,"Wynns, Austin",austin wynns,released,"released 5/12/26, less ATL, TEX portions",928984.0,928984.0,,False
+ATH,"Heim, Jonah",jonah heim,trade,"to Atlanta, 5/4/26 trade",100000.0,100000.0,jonah heim|31,True
+ATH,"Ibanez, Andy",andy ibanez,claimed,claimed by NY Mets 4/30/26,237433.0,237433.0,,False
+ATH,"McNeil, Jeff",jeff mcneil,bonus,"assignment bonus, 12/22/25 trade",500000.0,500000.0,jeff mcneil|34,True
+ATH,"McNeil, Jeff",jeff mcneil,trade,"from NY Mets, 12/22/25 trade",-5750000.0,-5750000.0,jeff mcneil|34,True
+ATH,"Watson, Ryan",ryan watson,trade,"from Boston, 12/10/25 trade",-100000.0,-100000.0,ryan watson|28,True
+NYM,"Raley, Brooks",brooks raley,bonus,performance bonus - games,1367046.0,1367046.0,brooks raley|38,True
+NYM,"Curry, Xzavion",xzavion curry,outrighted,outrighted 9/25/26,152089.0,152089.0,,False
+NYM,"Devenski, Chris",chris devenski,outrighted,outrighted 9/13/26,90909.0,90909.0,,False
+NYM,"Ross, Shawn",shawn ross,claimed,claimed by Toronto 9/5/26,23109.0,23109.0,shawn ross|26,True
+NYM,"Robert Jr., Luis",luis robert jr,claimed,claimed by Baltimore 8/31/26,17112299.0,17112299.0,luis robert jr|28,True
+NYM,"Arias, Gabriel",gabriel arias,claimed,claimed by Chicago NL 8/19/26,51407.0,51407.0,gabriel arias|26,True
+NYM,"Conley, Bryce",bryce conley,outrighted,outrighted 8/6/26,20856.0,20856.0,,False
+NYM,"Herget, Kevin",kevin herget,outrighted,outrighted 8/4/26,16684.0,16684.0,,False
+NYM,"Melendez, MJ",mj melendez,outrighted,outrighted 8/4/26,716176.0,716176.0,,False
+NYM,"Weaver, Luke",luke weaver,trade,"to Pittsburgh, 8/3/26 trade",2123529.0,2123529.0,luke weaver|32,True
+NYM,"Weaver, Luke",luke weaver,trade,traded to Pittsburgh 8/3/26,8647059.0,8647059.0,luke weaver|32,True
+NYM,"Holmes, Clay",clay holmes,trade,traded to Chicago NL 8/3/26,9176471.0,8941177.0,clay holmes|33,True
+NYM,"Taylor, Tyrone",tyrone taylor,trade,traded to Chicago NL 8/3/26,2682353.0,2682353.0,tyrone taylor|32,True
+NYM,"Rortvedt, Ben",ben rortvedt,trade,traded to LA Dodgers 8/3/26,882353.0,882353.0,,False
+NYM,"Brazoban, Huascar",huascar brazoban,trade,traded to Chicago AL 8/3/26,741176.0,741176.0,huascar brazoban|36,True
+NYM,"Raley, Brooks",brooks raley,trade,traded to Philadelphia 8/3/26,3352941.0,3352941.0,brooks raley|38,True
+NYM,"Gerber, Joey",joey gerber,released,released 8/2/26,299029.0,299029.0,,False
+NYM,"Peralta, Freddy",freddy peralta,trade,traded to Tampa Bay 8/2/26,5604278.0,5604278.0,freddy peralta|30,True
+NYM,"Soto, Juan",juan soto,bonus,award bonus - All Star,100000.0,100000.0,juan soto|27,True
+NYM,"Minter, A.J.",aj minter,trade,traded to Minnesota 7/31/26,7588235.0,7588235.0,aj minter|32,True
+NYM,"Short, Zack",zack short,outrighted,outrighted 7/19/26,94118.0,94118.0,,False
+NYM,"Hammer, Dan",dan hammer,outrighted,outrighted 7/15/26,29198.0,29198.0,,False
+NYM,"Seelinger, Matt",matt seelinger,outrighted,outrighted 7/11/26,20856.0,20856.0,,False
+NYM,"Oliva, Jared",jared oliva,released,released 7/11/26,12914.0,12914.0,,False
+NYM,"Zuniga, Guillermo",guillermo zuniga,outrighted,outrighted 7/9/26,20856.0,20856.0,,False
+NYM,"Carrillo, Alex",alex carrillo,released,released 7/9/26,97027.0,97027.0,,False
+NYM,"Peterson, David",david peterson,trade,traded to Chicago Cubs 6/25/26,4028342.0,4028342.0,david peterson|30,True
+NYM,"Brujan, Vidal",vidal brujan,outrighted,outrighted 6/18/26,222727.0,222727.0,,False
+NYM,"Severino, Anderson",anderson severino,released,"DFA 5/30/26, released",16405.0,16405.0,,False
+NYM,"Kimbrel, Craig",craig kimbrel,outrighted,outrighted 5/24/26,588235.0,588235.0,craig kimbrel|38,False
+NYM,"Slater, Austin",austin slater,outrighted,outrighted 5/22/26,112620.0,112620.0,,False
+NYM,"Ibanez, Andy",andy ibanez,outrighted,outrighted 5/15/26,96257.0,96257.0,,False
+NYM,"Edwards Jr., Carl",carl edwards jr,outrighted,outrighted 5/3/26,53476.0,53476.0,,False
+NYM,"Pham, Tommy",tommy pham,outrighted,"outrighted, elected FA 4/29/26",204545.0,204545.0,tommy pham|38,False
+NYM,"Garcia, Luis",luis garcia,released,"released 4/14/26, less Minnesota portion",1633209.0,1633209.0,,False
+NYM,"Lovelady, Richard",richard lovelady,trade,"from Washington, 4/16/26 trade",-100000.0,-100000.0,richard lovelady|30,True
+NYM,"Lovelady, Richard",richard lovelady,trade,traded to Washington 4/16/26,122995.0,122995.0,richard lovelady|30,True
+NYM,"Hudson, Bryan",bryan hudson,claimed,claimed by Chicago AL 3/27/26,12674.0,12674.0,bryan hudson|29,True
+NYM,"Hudson, Bryan",bryan hudson,trade,"to Chicago AL, 2/10/26 trade",100000.0,100000.0,bryan hudson|29,True
+NYM,"Criswell, Cooper",cooper criswell,trade,"from Seattle, 1/23/26 trade",-100000.0,-100000.0,cooper criswell|29,True
+NYM,"Brujan, Vidal",vidal brujan,trade,to Minnesota 1/22/26 trade,100000.0,100000.0,,False
+NYM,"McNeil, Jeff",jeff mcneil,trade,traded to Athletics 12/22/25,5750000.0,2500000.0,jeff mcneil|34,True
+NYM,"Nimmo, Brandon",brandon nimmo,trade,traded to Texas 11/23/25,5000000.0,5000000.0,brandon nimmo|33,True
+NYM,"Nimmo, Brandon",brandon nimmo,bonus,bonus for waiving no-trade clause,1000000.0,1000000.0,brandon nimmo|33,True
+NYM,"Montas, Frankie",frankie montas,released,released 11/19/25,17000000.0,17000000.0,,False
+NYM,"Diaz, Edwin",edwin diaz,other,"true-up, 11/25 opt-out",,1500000.0,edwin diaz|32,True
+NYM,"Gerber, Joey",joey gerber,trade,"to Tampa Bay, 11/4/25 trade",,100000.0,,False
+NYM,"Raley, Brooks",brooks raley,cbt_credit,"CBT credit, unpaid 2026 buyout",,-350000.0,brooks raley|38,True
+PHI,"Raley, Brooks",brooks raley,bonus,performance bonus - games,132954.0,132954.0,brooks raley|38,True
+PHI,"Urquidy, Jose",jose urquidy,dfa,DFA 9/27/26,80214.0,80214.0,,False
+PHI,"Cairo, Christian",christian cairo,claimed,claimed by NY Mets 9/15/26,59519.0,59519.0,christian cairo|25,True
+PHI,"Keller, Brian",brian keller,outrighted,outrighted 8/21/26,39980.0,39980.0,,False
+PHI,"Henry, Payton",payton henry,outrighted,outrighted 8/6/26,23481.0,23481.0,,False
+PHI,"Trivino, Lou",lou trivino,outrighted,outrighted 8/5/26,346257.0,346257.0,,False
+PHI,"Johnson, Seth",seth johnson,trade,traded to Athletics 8/3/26,239850.0,239850.0,seth johnson|27,True
+PHI,"Hoffman, Nolan",nolan hoffman,trade,traded to Kansas City 8/3/26,124632.0,124632.0,nolan hoffman|28,True
+PHI,"Berroa, Steward",steward berroa,outrighted,outrighted 8/1/26,141134.0,141134.0,,False
+PHI,"Misner, Kameron",kameron misner,trade,"to Kansas City, 7/25/26 trade",100000.0,100000.0,kameron misner|28,True
+PHI,"Harper, Bryce",bryce harper,bonus,award bonus - All Star,50000.0,50000.0,bryce harper|33,True
+PHI,"Sanchez, Cristopher",cristopher sanchez,bonus,award bonus - All Star,50000.0,50000.0,cristopher sanchez|29,True
+PHI,"Schwarber, Kyle",kyle schwarber,bonus,award bonus - All Star,50000.0,50000.0,kyle schwarber|33,True
+PHI,"Cabrera, Jean",jean cabrera,outrighted,outrighted 7/11/26,74085.0,74085.0,,False
+PHI,"Wilson, Bryse",bryse wilson,claimed,claimed by Chicago Cubs 6/24/26,39305.0,39305.0,bryse wilson|28,True
+PHI,"Rutledge, Jackson",jackson rutledge,released,released 6/16/26,37732.0,37732.0,,False
+PHI,"Pop, Zach",zach pop,outrighted,outrighted 6/6/26,356150.0,356150.0,,False
+PHI,"Moore, Dylan",dylan moore,outrighted,outrighted 5/8/26,1450000.0,1450000.0,,False
+PHI,"Richards, Trevor",trevor richards,trade,"from Chicago AL, 5/5/26 trade",-100000.0,-100000.0,trevor richards|33,True
+PHI,"Richards, Trevor",trevor richards,trade,paid before 5/5/26 trade,40107.0,40107.0,trevor richards|33,True
+PHI,"Walker, Taijuan",taijuan walker,released,released 4/23/26,18000000.0,18000000.0,,False
+PHI,"Leon, Pedro",pedro leon,released,released 4/18/26,50829.0,50829.0,,False
+PHI,"Curet, Yoniel",yoniel curet,claimed,claimed by Detroit 4/13/26 O19,13594.0,13594.0,,False
+PHI,"Berroa, Steward",steward berroa,trade,"to Milwaukee, 4/8/26 trade",100000.0,100000.0,,False
+PHI,"Sanchez, Cristopher",cristopher sanchez,cbt_credit,"CBT credit, 2025-26 overcharge",,,cristopher sanchez|29,True
+PHI,"Castellanos, Nick",nick castellanos,released,released 2/12/26 (less SD portion),19695508.0,19695508.0,,False
+PHI,"Bader, Harrison",harrison bader,buyout,buyout of 2026 option,3000000.0,,harrison bader|32,False
+PHI,"Alvarado, Jose",jose alvarado,cbt_credit,"CBT credit, unpaid 2026 buyout",,-500000.0,jose alvarado|31,True
+ATL,"Thomas, Lane",lane thomas,bonus,"performance bonuses - g, PA",24959.0,24959.0,lane thomas|30,True
+ATL,"Falter, Bailey",bailey falter,outrighted,outrighted 9/16/26,1078075.0,1078075.0,,False
+ATL,"Davitt, Duncan",duncan davitt,claimed,claimed by San Francisco 9/9/26,25148.0,25148.0,duncan davitt|26,True
+ATL,"Harris, Hayden",hayden harris,claimed,claimed by Colorado 9/4/26,118450.0,118450.0,hayden harris|27,True
+ATL,"Young, Danny",danny young,outrighted,outrighted 8/23/23,751872.0,751872.0,,False
+ATL,"Kinley, Tyler",tyler kinley,released,"released 8/22/26, less Detroit portion",4104011.0,4104011.0,tyler kinley|35,False
+ATL,"Bart, Joey",joey bart,trade,traded to Chicago White Sox 8/3/26,622353.0,622353.0,joey bart|29,True
+ATL,"Alvarez Jr., Nacho",nacho alvarez jr,trade,traded to LA Angels 8/3/26,227629.0,227629.0,nacho alvarez jr|23,True
+ATL,"Mateo, Jorge",jorge mateo,released,"released 8/9/26, less TB portion",803957.0,803957.0,jorge mateo|31,False
+ATL,"White, Eli",eli white,trade,traded to Boston 8/3/26,635294.0,635294.0,eli white|32,True
+ATL,"Molina, Anthony",anthony molina,trade,traded to San Francisco 8/2/26,159667.0,159667.0,anthony molina|24,True
+ATL,"Thomas, Connor",connor thomas,claimed,claimed by Athletics 7/30/26,40766.0,40766.0,connor thomas|28,True
+ATL,"Azocar, Jose",jose azocar,dfa,DFA 7/9/26,99626.0,99626.0,,False
+ATL,"Hernandez, Daysbel",daysbel hernandez,released,released 7/7/26,229384.0,229384.0,,False
+ATL,"Camargo, Jair",jair camargo,outrighted,outrighted 7/9/26,19804.0,19804.0,,False
+ATL,"Carrasco, Carlos",carlos carrasco,outrighted,outrighted 7/8/26,401070.0,401070.0,,False
+ATL,"Hamilton, Ian",ian hamilton,outrighted,outrighted 7/6/26,123529.0,123529.0,,False
+ATL,"Tellez, Rowdy",rowdy tellez,outrighted,outrighted 7/4/26,200535.0,200535.0,,False
+ATL,"Leon, Sandy",sandy leon,outrighted,outrighted 6/21/26,219251.0,219251.0,,False
+ATL,"Stratton, Hunter",hunter stratton,trade,traded to Pittsburgh 6/18/26,102888.0,102888.0,hunter stratton|29,True
+ATL,"Wynns, Austin",austin wynns,outrighted,outrighted 6/15/26,50053.0,50053.0,,False
+ATL,"Handley, Maverick",maverick handley,released,released by ATL 6/12/26,26198.0,26198.0,,False
+ATL,"Lara, Jhancarlos",jhancarlos lara,claimed,claimed by Washington 6/12/26,54374.0,54374.0,,False
+ATL,"Tromp, Chadwick",chadwick tromp,outrighted,outrighted 6/6/26,81284.0,81284.0,,False
+ATL,"Bummer, Aaron",aaron bummer,released,"released 5/19/26, less KC portion",9474973.0,6474973.0,,False
+ATL,"Suarez, Jose",jose suarez,claimed,claimed by Seattle 5/3/26,192513.0,192513.0,,False
+ATL,"Heim, Jonah",jonah heim,trade,"from Athletics, 5/4/26 trade",-100000.0,-100000.0,jonah heim|31,True
+ATL,"Heim, Jonah",jonah heim,trade,traded to Athletics 5/4/26,274064.0,274064.0,jonah heim|31,True
+ATL,"Payamps, Joel",joel payamps,outrighted,outrighted 5/3/26,2250000.0,2250000.0,,False
+ATL,"Bido, Osvaldo",osvaldo bido,claimed,claimed by Chicago AL 4/18/26,108011.0,108011.0,,False
+ATL,"Williams, Luke",luke williams,outrighted,"outrighted, elected FA 4/15/26",26738.0,26738.0,,False
+ATL,"Wisely, Brett",brett wisely,outrighted,outrighted 4/1/26,33797.0,33797.0,,False
+ATL,"Wisely, Brett",brett wisely,trade,"to Tampa Bay, 2/10/26 trade",100000.0,100000.0,,False
+ATL,"Rolison, Ryan",ryan rolison,trade,"to Colorado, 11/19/25 trade",,100000.0,ryan rolison|28,True
+ATL,"Albies, Ozzie",ozzie albies,cbt_credit,CBT credit for unpaid buyout,,-4000000.0,ozzie albies|29,True
+ATL,"Arcia, Orlando",orlando arcia,buyout,2026 buyout,1000000.0,,,False
+ATL,"Fletcher, David",david fletcher,buyout,2026 buyout,1500000.0,,,False
+ATL,"Johnson, Pierce",pierce johnson,buyout,2026 buyout,250000.0,,pierce johnson|35,False
+ATL,"Kinley, Tyler",tyler kinley,buyout,2026 buyout,750000.0,,tyler kinley|35,False
+WSN,"Hampton, Chase",chase hampton,dfa,DFA 9/26/26,4761.0,4761.0,,False
+WSN,"Henry, Cole",cole henry,released,released 9/21/26,385684.0,385684.0,,False
+WSN,"Cavalli, Cade",cade cavalli,cbt_credit,"CBT credit, unpaid 2026 buyout",,,cade cavalli|27,True
+WSN,"Mills, Wyatt",wyatt mills,released,released 9/17/26,42831.0,42831.0,,False
+WSN,"Kranick, Max",max kranick,outrighted,outrighted 9/6/26,800000.0,800000.0,,False
+WSN,"Cosgrove, Tom",tom cosgrove,outrighted,outrighted 9/4/26,274332.0,274332.0,,False
+WSN,"Williams, Trevor",trevor williams,released,released 8/30/26,7000000.0,7000000.0,,False
+WSN,"Mikolas, Miles",miles mikolas,bonus,performance bonuses - innings,200000.0,200000.0,,False
+WSN,"Mikolas, Miles",miles mikolas,dfa,DFA 8/12/26,2250000.0,2250000.0,,False
+WSN,"Littell, Zack",zack littell,bonus,performance bonuses - innings,200000.0,200000.0,,False
+WSN,"Littell, Zack",zack littell,released,"released 8/7/26, less ARI portion",6929091.0,6929091.0,,False
+WSN,"Wiemer, Joey",joey wiemer,released,released 8/5/26,311504.0,311504.0,,False
+WSN,"Griffin, Foster",foster griffin,trade,traded to Cleveland 8/3/26,3882353.0,3882353.0,foster griffin|30,True
+WSN,"Garcia Jr., Luis",luis garcia jr,trade,traded to NY Yankees 8/3/26,4852941.0,4852941.0,luis garcia jr|26,True
+WSN,"Franklin, Christian",christian franklin,trade,traded to Baltimore 8/3/26,44894.0,44894.0,christian franklin|26,True
+WSN,"Krook, Matt",matt krook,outrighted,outrighted 7/29/26,87594.0,87594.0,,False
+WSN,"Mead, Curtis",curtis mead,trade,paid before 7/26/26 trade to Boston,506953.0,506953.0,curtis mead|25,True
+WSN,"Lawrence, Justin",justin lawrence,outrighted,outrighted 7/23/26,189973.0,189973.0,,False
+WSN,"Hassell III, Robert",robert hassell iii,outrighted,outrighted 7/12/26,74765.0,74765.0,,False
+WSN,"Granillo, Andre",andre granillo,claimed,claimed by Detroit 7/11/26,154573.0,154573.0,,False
+WSN,"Lara, Jhancarlos",jhancarlos lara,outrighted,outrighted 6/29/26,11555.0,11555.0,,False
+WSN,"Fernandez, Julian",julian fernandez,released,released 6/17/26,127264.0,127264.0,,False
+WSN,"Palmquist, Carson",carson palmquist,trade,"to Colorado, 5/25/26 trade",100000.0,100000.0,carson palmquist|25,True
+WSN,"Rutledge, Jackson",jackson rutledge,claimed,claimed by Philadelphia 5/10/26,51135.0,51135.0,,False
+WSN,"Perez, Cionel",cionel perez,outrighted,"outrighted 5/2/26, less NYN portion",1395294.0,1395294.0,cionel perez|30,False
+WSN,"Lovelady, Richard",richard lovelady,trade,"to NY Mets, 4/16/26 trade",100000.0,100000.0,richard lovelady|30,True
+WSN,"Eder, Jake",jake eder,trade,"from LA Dodgers, 4/1/26 trade",-100000.0,-100000.0,,False
+WSN,"Eder, Jake",jake eder,trade,traded to LA Dodgers 4/1/26,5437.0,5437.0,,False
+WSN,"Adams, Riley",riley adams,outrighted,outrighted 1/27/26,500000.0,500000.0,,False
+WSN,"Ogasawara, Shinnosuke",shinnosuke ogasawara,outrighted,outrighted 10/28/25,2000000.0,1750000.0,,False
+WSN,"Strasburg, Stephen",stephen strasburg,other,7 y/$245M (20-26) retired 4/6/24,33400000.0,35000000.0,,False
+MIA,"Fairbanks, Pete",pete fairbanks,bonus,performance bonus - games,300000.0,300000.0,pete fairbanks|32,True
+MIA,"Jimenez, Leo",leo jimenez,released,released 9/5/26,667381.0,667381.0,,False
+MIA,"King, John",john king,released,released 8/26/26,1500000.0,1500000.0,,False
+MIA,"Bachar, Lake",lake bachar,trade,traded to Pittsburgh 8/3/26,558706.0,558706.0,lake bachar|31,True
+MIA,"Hicks, Liam",liam hicks,trade,traded to Tampa Bay 8/3/26,557647.0,557647.0,liam hicks|27,True
+MIA,"Norby, Connor",connor norby,trade,traded to Colorado 8/3/26,560471.0,560471.0,connor norby|26,True
+MIA,"Garrett, Braxton",braxton garrett,trade,traded to Chicago NL 8/3/26,1080000.0,1080000.0,braxton garrett|28,True
+MIA,"Hinds, Rece",rece hinds,trade,"from Baltimore, 8/3/26 trade",-100000.0,-100000.0,rece hinds|25,True
+MIA,"Hinds, Rece",rece hinds,trade,traded to Baltimore 8/3/26,128744.0,128744.0,rece hinds|25,True
+MIA,"Morel, Christopher",christopher morel,released,"released 6/26/26, less NYN portion",1783102.0,1783102.0,christopher morel|26,False
+MIA,"Jones, Stephen",stephen jones,outrighted,outrighted 5/10/26,16685.0,16685.0,,False
+MIA,"Paddack, Chris",chris paddack,released,"released 5/10/26, less CIN, TEX portions",3803957.0,3803957.0,,False
+MIA,"Slater, Austin",austin slater,outrighted,"outrighted 4/25/26, less NYN/TB portions",828984.0,828984.0,,False
+MIA,"Acton, Garrett",garrett acton,trade,traded to Minnesota 4/3/26,6797.0,6797.0,garrett acton|28,True
+MIA,"Simpson, Josh",josh simpson,trade,"from Seattle, 2/16/26 trade",-100000.0,-100000.0,josh simpson|28,True
+MIA,"Wiemer, Joey",joey wiemer,trade,"from San Francisco, 11/21/25 trade",,-100000.0,,False
+MIA,"Garcia, Avisail",avisail garcia,buyout,buyout of 2026 option,5000000.0,,,False
+MIA,"Go, Woo Suk",woo suk go,buyout,buyout of 2026 option,500000.0,,,False
+MIA,"Stanton, Giancarlo",giancarlo stanton,trade,"to NY Yankees, 12/9/17 trade",10000000.0,3000000.0,giancarlo stanton|36,True
+CHC,"Boyd, Matt",matt boyd,bonus,performance bonus - innings,500000.0,500000.0,matt boyd|35,True
+CHC,"Kelly, Carson",carson kelly,bonus,performance bonus - starts,500000.0,500000.0,carson kelly|30,True
+CHC,"Thielbar, Caleb",caleb thielbar,bonus,performance bonus - games,250000.0,250000.0,caleb thielbar|39,True
+CHC,"Webb, Jacob",jacob webb,bonus,performance bonus - games,500000.0,500000.0,jacob webb|32,True
+CHC,"Kelly, Antoine",antoine kelly,dfa,DFA 9/26/26,92902.0,92902.0,,False
+CHC,"Milner, Hoby",hoby milner,other,"releasaed 8/30/26, less Seattle portion",3637380.0,3637380.0,hoby milner|35,True
+CHC,"Miller, Owen",owen miller,outrighted,outrighted 8/24/26,34225.0,34225.0,,False
+CHC,"Woodford, Jake",jake woodford,outrighted,outrighted 8/7/26,87594.0,87594.0,,False
+CHC,"Little, Luke",luke little,claimed,claimed by Kansas City 8/6/26,163310.0,163310.0,luke little|25,True
+CHC,"Ballesteros, Moises",moises ballesteros,trade,traded to LA Angels 8/3/26,389899.0,389899.0,moises ballesteros|22,True
+CHC,"Wantz, Andrew",andrew wantz,outrighted,outrighted 8/1/26,25668.0,25668.0,,False
+CHC,"Taillon, Jameson",jameson taillon,trade,"to Toronto, 8/3/26 trade",4956791.0,4956791.0,jameson taillon|34,True
+CHC,"Taillon, Jameson",jameson taillon,trade,traded to Toronto 8/2/26,12609626.0,11909091.0,jameson taillon|34,True
+CHC,"Civale, Aaron",aaron civale,trade,"from Athletics, 7/18/26 trade",-1731925.0,-1731925.0,aaron civale|31,True
+CHC,"Pomeranz, Drew",drew pomeranz,outrighted,outrighted 7/23/26,87594.0,87594.0,,False
+CHC,"Wilson, Bryse",bryse wilson,outrighted,outrighted 7/7/26,72995.0,72995.0,bryse wilson|28,False
+CHC,"Zulueta, Yosver",yosver zulueta,claimed,claimed by Baltimore 6/28/26,8836.0,8836.0,yosver zulueta|28,True
+CHC,"Nunez, Eduarniel",eduarniel nunez,outrighted,outrighted 7/1/26,15633.0,15633.0,,False
+CHC,"Roa, Christian",christian roa,outrighted,outrighted 7/1/26,30586.0,30586.0,,False
+CHC,"Peralta, Luis",luis peralta,outrighted,outrighted 6/24/26,49662.0,49662.0,,False
+CHC,"Velasquez, Vince",vince velasquez,outrighted,outrighted 6/30/26,80214.0,80214.0,,False
+CHC,"Nikhazy, Doug",doug nikhazy,outrighted,outrighted 6/19/26,35343.0,35343.0,,False
+CHC,"Zulueta, Yosver",yosver zulueta,trade,"to Seattle, 6/15/26 trade",100000.0,100000.0,yosver zulueta|28,True
+CHC,"Lopez, Nicky",nicky lopez,outrighted,outrighted 5/25/26,171123.0,171123.0,nicky lopez|31,False
+CHC,"Blach, Ty",ty blach,outrighted,outrighted 5/22/26,32086.0,32086.0,,False
+CHC,"Martin, Corbin",corbin martin,outrighted,outrighted 5/10/26,98396.0,98396.0,,False
+CHC,"Barnes, Charlie",charlie barnes,claimed,claimed by LA Dodgers 5/9/26,46511.0,46511.0,,False
+CHC,"Ferguson, Tyler",tyler ferguson,trade,"to Athletics, 5/7/26 trade",100000.0,100000.0,tyler ferguson|32,True
+CHC,"Rios, Yacksel",yacksel rios,outrighted,outrighted 5/6/26,52941.0,52941.0,,False
+CHC,"Cowles, Ben",ben cowles,outrighted,outrighted 5/3/26,40791.0,40791.0,,False
+CHC,"Kingery, Scott",scott kingery,outrighted,outrighted 4/27/26,1250000.0,1250000.0,,False
+CHC,"Carlson, Dylan",dylan carlson,outrighted,"outrighted 4/12/26, elected FA",2000000.0,,,False
+CHC,"Turner, Justin",justin turner,buyout,"2026 buyout, paid 11/6/25",2000000.0,2000000.0,,False
+CHC,"Kittredge, Andrew",andrew kittredge,trade,"from Baltimore, 11/4/25 trade",,-100000.0,andrew kittredge|36,True
+CHC,"Rea, Colin",colin rea,cbt_credit,"CBT credit, unpaid buyout",,-750000.0,colin rea|36,True
+CHC,"Kittredge, Andrew",andrew kittredge,cbt_credit,"CBT credit, unpaid buyout",,-317204.0,andrew kittredge|36,True
+CHC,"Bellinger, Cody",cody bellinger,trade,"to NY Yankees, 12/18/24 trade",2500000.0,2500000.0,cody bellinger|30,True
+MIL,"Rengifo, Luis",luis rengifo,bonus,performance bonus - plate appearances,353267.0,353267.0,luis rengifo|29,True
+MIL,"Richardson, Lyon",lyon richardson,dfa,DFA 9/25/26,37540.0,37540.0,,False
+MIL,"Zastryzny, Rob",rob zastryzny,outrighted,outrighted 9/19/26,863890.0,863890.0,,False
+MIL,"Kuhnel, Joel",joel kuhnel,claimed,claimed by San Francisco 9/4/26,380214.0,380214.0,joel kuhnel|31,True
+MIL,"Ornelas, Jonathan",jonathan ornelas,outrighted,outrighted 8/28/26,54225.0,54225.0,,False
+MIL,"Bae, Ji Hwan",ji hwan bae,outrighted,outrighted 8/19/26,47059.0,47059.0,,False
+MIL,"Rom, Drew",drew rom,claimed,claimed by Athletics 8/11/26,135627.0,135627.0,drew rom|26,True
+MIL,"Rodriguez, Carlos F",carlos f rodriguez,outrighted,outrighted 8/6/26,135106.0,135106.0,,False
+MIL,"Heuer, Codi",codi heuer,trade,"from Baltimore, 8/3/26 trade",-100000.0,-100000.0,codi heuer|29,True
+MIL,"Heuer, Codi",codi heuer,trade,traded to Baltimore 8/3/26,3209.0,3209.0,codi heuer|29,True
+MIL,"Perkins, Blake",blake perkins,trade,traded to Cleveland 8/1/26,521570.0,521570.0,blake perkins|29,True
+MIL,"Yoho, Craig",craig yoho,trade,traded to Cleveland 8/1/26,347358.0,347358.0,craig yoho|26,True
+MIL,"Pannone, Thomas",thomas pannone,outrighted,outrighted 8/6/26,38503.0,38503.0,,False
+MIL,"McCullers Jr., Lance",lance mccullers jr,released,released 7/27/26,2500000.0,2500000.0,,False
+MIL,"Contreras, William",william contreras,bonus,award bonus - All Star,50000.0,50000.0,william contreras|28,True
+MIL,"Shewmake, Braden",braden shewmake,outrighted,outrighted 7/28/26,66738.0,66738.0,,False
+MIL,"McGee, Easton",easton mcgee,trade,"from Kansas City, 7/14/26 trade",-100000.0,-100000.0,easton mcgee|28,True
+MIL,"McGee, Easton",easton mcgee,trade,traded to Kansas City 7/14/26,143059.0,143059.0,easton mcgee|28,True
+MIL,"Jones, Greg",greg jones,outrighted,outrighted 7/16/26,145989.0,145989.0,,False
+MIL,"Shewmake, Braden",braden shewmake,trade,"to Houston, 7/12/26 trade",100000.0,100000.0,,False
+MIL,"Rengifo, Luis",luis rengifo,released,released 6/23/26,1657968.0,1657968.0,luis rengifo|29,False
+MIL,"Woodford, Jake",jake woodford,outrighted,"outrighted 6/8/26, less CHN, TB portion",895722.0,895722.0,,False
+MIL,"Kuhnel, Joel",joel kuhnel,trade,"to Athletics, 6/6/26 trade",100000.0,100000.0,joel kuhnel|31,True
+MIL,"Strzelecki, Peter",peter strzelecki,outrighted,outrighted 5/20/26,21123.0,21123.0,,False
+MIL,"Jones, Greg",greg jones,outrighted,outrighted 5/8/26,104278.0,104278.0,,False
+MIL,"Matos, Luis",luis matos,outrighted,outrighted 4/29/26,126738.0,126738.0,,False
+MIL,"Berroa, Steward",steward berroa,trade,"from Philadelphia, 4/8/26 trade",-100000.0,-100000.0,,False
+MIL,"Berroa, Steward",steward berroa,trade,traded to Philadelphia 4/8/26,33956.0,33956.0,,False
+MIL,"Peralta, Sammy",sammy peralta,claimed,claimed by Colorado 4/4/26,7476.0,7476.0,sammy peralta|28,True
+MIL,"Matos, Luis",luis matos,trade,"to San Francisco, 3/30/26 trade",100000.0,100000.0,,False
+MIL,"Contreras, William",william contreras,buyout,buyout of 2026 option,100000.0,,william contreras|28,False
+MIL,"Hoskins, Rhys",rhys hoskins,buyout,buyout of 2026 option,4000000.0,,rhys hoskins|33,False
+MIL,"Jansen, Danny",danny jansen,buyout,buyout of 2026 option,500000.0,,danny jansen|31,False
+MIL,"Quintana, Jose",jose quintana,buyout,buyout of 2026 option,2000000.0,,jose quintana|37,False
+MIL,"Woodruff, Brandon",brandon woodruff,buyout,buyout of 2026 option,10000000.0,,brandon woodruff|33,False
+CIN,"Bleday, JJ",jj bleday,bonus,performance bonus - plate appearances,450000.0,450000.0,jj bleday|28,True
+CIN,"Johnson, Pierce",pierce johnson,bonus,performance bonus - games,300000.0,300000.0,pierce johnson|35,True
+CIN,"Aguiar, Julian",julian aguiar,claimed,claimed by Chicago Cubs 9/26/26,380902.0,380902.0,julian aguiar|25,True
+CIN,"Friedl, TJ",tj friedl,outrighted,outrighted 9/22/26,3800000.0,3800000.0,,False
+CIN,"Moll, Sam",sam moll,bonus,performance bonus - games,150000.0,150000.0,,False
+CIN,"Moll, Sam",sam moll,released,released 9/8/26,875000.0,875000.0,,False
+CIN,"Emanuel, Kent",kent emanuel,outrighted,outrighted 8/20/26,17112.0,17112.0,,False
+CIN,"Marinaccio, Ron",ron marinaccio,outrighted,outrighted 8/19/26,56147.0,56147.0,,False
+CIN,"Lowe, Nathaniel",nathaniel lowe,trade,traded to Cleveland 8/3/26,1235294.0,1235294.0,nathaniel lowe|30,True
+CIN,"Ferguson, Caleb",caleb ferguson,trade,traded to St. Louis 8/3/26,3176471.0,3176471.0,,False
+CIN,"Brito, Juan",juan brito,trade,"to Cleveland, 8/3/26 trade",100000.0,100000.0,juan brito|24,True
+CIN,"Benson, Will",will benson,outrighted,outrighted 7/8/26,1725000.0,1725000.0,,False
+CIN,"Paddack, Chris",chris paddack,outrighted,"outrighted 6/24/26, elected FA",179358.0,179358.0,,False
+CIN,"Higgins, P.J.",pj higgins,outrighted,outrighted 6/18/26,218807.0,218807.0,,False
+CIN,"Leibrandt, Brandon",brandon leibrandt,outrighted,outrighted 6/4/26,16685.0,16685.0,,False
+CIN,"Richardson, Lyon",lyon richardson,outrighted,outrighted 6/4/26,25027.0,25027.0,,False
+CIN,"Marte, Yunior",yunior marte,outrighted,outrighted 6/3/26,33690.0,33690.0,yunior marte|22,False
+CIN,"Nicolas, Kyle",kyle nicolas,trade,"from Baltimore, 6/4/26 trade",-100000.0,-100000.0,kyle nicolas|27,True
+CIN,"Nicolas, Kyle",kyle nicolas,trade,traded to Baltimore 6/4/26,144722.0,144722.0,kyle nicolas|27,True
+CIN,"Hinds, Rece",rece hinds,trade,traded to Miami 5/21/26,132287.0,132287.0,rece hinds|25,True
+CIN,"Encarnacion-Strand, Christian",christian encarnacion strand,trade,"from Baltimore, 4/13/26 trade",-100000.0,-100000.0,christian encarnacion strand|26,True
+CIN,"Encarnacion-Strand, Christian",christian encarnacion strand,trade,traded to Baltimore 4/13/26,27912.0,27912.0,christian encarnacion strand|26,True
+CIN,"Barlow, Scott",scott barlow,buyout,"2026 buyout, paid 11/4/25",1000000.0,,,False
+CIN,"Hays, Austin",austin hays,buyout,"2026 buyout, paid 11/4/25",1000000.0,,austin hays|30,False
+CIN,"Suter, Brent",brent suter,buyout,"2026 buyout, paid 11/4/25",250000.0,,brent suter|36,False
+CIN,"Vilade, Ryan",ryan vilade,trade,"from Tampa Bay, 11/3/25 trade",,-100000.0,ryan vilade|27,True
+CIN,"Candelario, Jeimer",jeimer candelario,released,released 6/29/25 less LAA portion,12920749.0,14920323.0,,False
+PIT,"Doval, Camilo",camilo doval,claimed,claimed by San Francisco 9/24/26,1761497.0,1761497.0,camilo doval|28,True
+PIT,"Bethancourt, Christian",christian bethancourt,outrighted,outrighted 9/7/26,37433.0,37433.0,,False
+PIT,"Rodriguez, Johnathan",johnathan rodriguez,claimed,claimed by Athletics 8/21/26,24994.0,24994.0,johnathan rodriguez|26,True
+PIT,"Marinaccio, Ron",ron marinaccio,claimed,claimed by Cincinnati 8/6/26,60466.0,60466.0,,False
+PIT,"Devenski, Chris",chris devenski,outrighted,outrighted 8/5/26,529412.0,529412.0,,False
+PIT,"Ozuna, Marcell",marcell ozuna,released,released 8/7/26,10500000.0,12000000.0,,False
+PIT,"Weaver, Luke",luke weaver,trade,"from NY Mets, 8/3/26 trade",-2123529.0,-2123529.0,luke weaver|32,True
+PIT,"Doval, Camilo",camilo doval,trade,"from NY Yankees, 8/3/26 trade",-1109358.0,-1109358.0,camilo doval|28,True
+PIT,"Bidois, Brandon",brandon bidois,trade,traded to Miami 8/3/26,244160.0,244160.0,brandon bidois|25,True
+PIT,"Stratton, Hunter",hunter stratton,trade,traded to San Diego 8/3/26,70588.0,70588.0,hunter stratton|29,True
+PIT,"Ross, Shawn",shawn ross,claimed,claimed by NY Mets 8/2/26,41711.0,41711.0,shawn ross|26,True
+PIT,"Rodriguez, Johnathan",johnathan rodriguez,trade,"to Baltimore, 7/27/26 trade",100000.0,100000.0,johnathan rodriguez|26,True
+PIT,"Urquidy, Jose",jose urquidy,trade,traded to Chicago AL 7/26/26,994652.0,994652.0,,False
+PIT,"Santana, Dennis",dennis santana,released,"released 7/29/26, less Arizona portion",3320642.0,3320642.0,dennis santana|30,False
+PIT,"Sanders, Cam",cam sanders,trade,"from Washington, 7/13/26 trade",-100000.0,-100000.0,cam sanders|29,True
+PIT,"Sanders, Cam",cam sanders,trade,traded to Baltimore 7/13/26,145273.0,145273.0,cam sanders|29,True
+PIT,"Ashcraft, Braxton",braxton ashcraft,bonus,award bonus - All Star,10000.0,10000.0,braxton ashcraft|26,True
+PIT,"Skenes, Paul",paul skenes,bonus,award bonus - All Star,10000.0,10000.0,paul skenes|24,True
+PIT,"Wendzel, Davis",davis wendzel,released,released 7/5/26,35174.0,35174.0,,False
+PIT,"Bart, Joey",joey bart,trade,traded to Atlanta 6/18/26,1163529.0,1163529.0,joey bart|29,True
+PIT,"Lawrence, Justin",justin lawrence,trade,"from Minnesota, 6/2/26 trade",-100000.0,-100000.0,,False
+PIT,"Lawrence, Justin",justin lawrence,trade,traded to Minnesota 6/2/26,452005.0,452005.0,,False
+PIT,"Harbin, Ryan",ryan harbin,released,released 5/1/26,25828.0,25828.0,,False
+PIT,"Valdez, Enmanuel",enmanuel valdez,outrighted,outrighted 4/9/26,32821.0,32821.0,,False
+PIT,"Baumier, Carter",carter baumier,trade,"from Texas, 12/10/25 trade",-100000.0,-100000.0,carter baumier|24,True
+STL,"Strzelecki, Peter",peter strzelecki,outrighted,outrighted 9/18/26,223904.0,223904.0,,False
+STL,"Urias, Ramon",ramon urias,released,released 9/18/26,1500000.0,2000000.0,,False
+STL,"Ferguson, Caleb",caleb ferguson,outrighted,outrighted 8/30/26,1323529.0,1323529.0,,False
+STL,"Velazquez, Nelson",nelson velazquez,claimed,claimed by Houston 8/10/26,356150.0,356150.0,nelson velazquez|27,True
+STL,"Hence, Tink",tink hence,outrighted,outrighted 8/6/26,91757.0,91757.0,,False
+STL,"May, Dustin",dustin may,trade,traded to Milwaukee 8/3/26,8470588.0,8470588.0,dustin may|28,True
+STL,"Nootbaar, Lars",lars nootbaar,trade,traded to Arizona 8/3/26,3776471.0,3776471.0,lars nootbaar|28,True
+STL,"Romero, JoJo",jojo romero,trade,traded to Milwaukee 8/3/26,3023226.0,3023226.0,jojo romero|29,True
+STL,"Hence, Tink",tink hence,dfa,DFA 8/1/26,88358.0,88358.0,,False
+STL,"Blewett, Scott",scott blewett,trade,"from Athletics, 7/26/26 trade",-100000.0,-100000.0,scott blewett|30,True
+STL,"Blewett, Scott",scott blewett,trade,traded to Athletics 7/26/26,42781.0,42781.0,scott blewett|30,True
+STL,"Pozo, Yohel",yohel pozo,claimed,claimed by Baltimore 7/23/26,385142.0,385142.0,yohel pozo|29,True
+STL,"Shuster, Jared",jared shuster,outrighted,outrighted 7/10/26,159091.0,159091.0,,False
+STL,"Zimmermann, Bruce",bruce zimmermann,outrighted,outrighted 7/13/26,29947.0,29947.0,,False
+STL,"Roycroft, Chris",chris roycroft,trade,traded to Tampa Bay 6/23/26,141738.0,141738.0,chris roycroft|29,True
+STL,"Pushard, Matt",matt pushard,other,returned to Miami 6/3/26,296150.0,296150.0,,False
+STL,"Peralta, Luis",luis peralta,claimed,claimed by Chicago Cubs 5/3/26,5730.0,5730.0,,False
+STL,"Raquet, Nick",nick raquet,trade,traded to Baltimore 4/7/26,9516.0,9516.0,,False
+STL,"Arenado, Nolan",nolan arenado,other,2021-25 CBT undercharge $172-152.7,,9611113.0,nolan arenado|35,True
+STL,"Arenado, Nolan",nolan arenado,trade,traded to Arizona 1/13/26,22000000.0,22000000.0,nolan arenado|35,True
+STL,"Arenado, Nolan",nolan arenado,other,"PV of deferred 2026 salary, pd 2040-41",3398219.0,3398219.0,nolan arenado|35,True
+STL,"Arenado, Nolan",nolan arenado,trade,"from Colorado, 2/1/21 trade",-5000000.0,-5000000.0,nolan arenado|35,True
+STL,"Bruihl, Justin",justin bruihl,trade,"to Cleveland, 1/8/26 trade",100000.0,100000.0,justin bruihl|29,True
+STL,"Contreras, Willson",willson contreras,trade,traded to Boston 12/21/25,4000000.0,4000000.0,willson contreras|34,True
+STL,"Contreras, Willson",willson contreras,cbt_credit,"CBT credit (2023-25, $52.5 - $46)",,-3250000.0,willson contreras|34,True
+STL,"Gray, Sonny",sonny gray,trade,traded to Boston 11/25/25,20000000.0,20000000.0,sonny gray|36,True
+STL,"Gray, Sonny",sonny gray,cbt_credit,"CBT credit (2023-24, $49.6 - $35)",,-14599036.0,sonny gray|36,True
+LAD,"Muncy, Max",max muncy,bonus,performance bonus - plate appearances,2250000.0,2250000.0,max muncy|35,True
+LAD,"Ward, Ryan",ryan ward,dfa,DFA 9/22/26,230770.0,230770.0,,False
+LAD,"Thomas, Alek",alek thomas,outrighted,outrighted 9/8/26,1448262.0,1448262.0,,False
+LAD,"Rortvedt, Ben",ben rortvedt,outrighted,outrighted 9/3/26,207219.0,207219.0,,False
+LAD,"Hernandez, Jonathan",jonathan hernandez,outrighted,outrighted 8/21/26,352941.0,352941.0,,False
+LAD,"Barnes, Charlie",charlie barnes,outrighted,outrighted 8/13/26,109249.0,109249.0,,False
+LAD,"Robinson, Chuckie",chuckie robinson,outrighted,outrighted 8/7/26,119510.0,119510.0,,False
+LAD,"Mills, Wyatt",wyatt mills,claimed,claimed by Washington 8/6/26,142894.0,142894.0,,False
+LAD,"Duran, Carlos",carlos duran,trade,traded to Kansas City 8/3/26,19711.0,19711.0,carlos duran|24,True
+LAD,"Ryan, River",river ryan,trade,traded to Detroit 8/2/26,269706.0,269706.0,river ryan|27,True
+LAD,"McDermott, Chayce",chayce mcdermott,trade,traded to NY Mets 8/3/26,52339.0,52339.0,chayce mcdermott|27,True
+LAD,"Irvin, Cole",cole irvin,outrighted,outrighted 8/4/26,26738.0,26738.0,,False
+LAD,"Frasso, Nick",nick frasso,trade,traded to Colorado 7/20/26,30586.0,30586.0,nick frasso|27,True
+LAD,"Eder, Jake",jake eder,released,released 7/6/26,121112.0,121112.0,,False
+LAD,"Espinal, Santiago",santiago espinal,outrighted,"outrighted, elected FA 6/18/26",2500000.0,2500000.0,,False
+LAD,"Fitzgerald, Tyler",tyler fitzgerald,released,released 6/10/26,57735.0,57735.0,,False
+LAD,"Lauer, Eric",eric lauer,trade,"from Toronto, 5/17/26 trade",-2529412.0,-2529412.0,eric lauer|31,True
+LAD,"Siani, Michael",michael siani,claimed,claimed by Baltimore 5/18/26,63375.0,63375.0,,False
+LAD,"Fitzgerald, Tyler",tyler fitzgerald,trade,"to Toronto, 4/28/26 trade",100000.0,100000.0,,False
+LAD,"Holman, Grant",grant holman,claimed,claimed by Detroit 4/11/26,10198.0,10198.0,grant holman|26,True
+LAD,"Eder, Jake",jake eder,trade,"to Washington, 4/1/26 trade",100000.0,100000.0,,False
+LAD,"Suwinski, Jack",jack suwinski,outrighted,"outrighted 3/2/26, traded 8/3/26",882353.0,882353.0,,False
+LAD,"Vesia, Alex",alex vesia,cbt_credit,"CBT credit, unpaid 2026 buyout",,-50000.0,alex vesia|30,True
+SDP,"Andujar, Miguel",miguel andujar,bonus,performance bonuses - plate appearances,400000.0,400000.0,miguel andujar|31,True
+SDP,"Buehler, Walker",walker buehler,bonus,performance bonuses,2500000.0,2500000.0,walker buehler|31,True
+SDP,"France, Ty",ty france,bonus,performance bonus - plate appearances,650000.0,650000.0,ty france|31,True
+SDP,"Pivetta, Nick",nick pivetta,cbt_credit,"CBT credit ($27.5 charge, $23 pd 2025-26)",,-4500000.0,nick pivetta|33,True
+SDP,"Jacob, Alek",alek jacob,outrighted,outrighted 9/26/26,215464.0,215464.0,,False
+SDP,"Hunt, Blake",blake hunt,released,released 9/8/26,89875.0,89875.0,,False
+SDP,"Marquez, German",german marquez,buyout,DFA 8/5/26 (salary+buyout),1750000.0,1750000.0,,False
+SDP,"Waldron, Matt",matt waldron,claimed,claimed by Toronto 8/5/26,570969.0,570969.0,matt waldron|29,True
+SDP,"Ray, Robbie",robbie ray,bonus,assignment bonus,1000000.0,1000000.0,robbie ray|34,True
+SDP,"Ray, Robbie",robbie ray,trade,"from San Francisco, 8/3/26 trade",-4176471.0,-4176471.0,robbie ray|34,True
+SDP,"Mendez, Miguel",miguel mendez,trade,traded to San Francisco 8/3/26,44894.0,44894.0,miguel mendez|23,True
+SDP,"Marinaccio, Ron",ron marinaccio,trade,traded to Pittsburgh 7/23/26,522597.0,522597.0,,False
+SDP,"Solak, Nick",nick solak,outrighted,outrighted 6/25/26,55615.0,55615.0,,False
+SDP,"Adcock, Ty",ty adcock,outrighted,outrighted 6/17/26,57773.0,57773.0,,False
+SDP,"Johnson, Bryce",bryce johnson,outrighted,outrighted 6/15/26,357299.0,357299.0,,False
+SDP,"Castellanos, Nick",nick castellanos,released,released 6/5/26,304492.0,304492.0,,False
+SDP,"Darvish, Yu",yu darvish,other,pay forfeited while on leave,-15000000.0,-15000000.0,yu darvish|39,True
+SDP,"Diaz, Elias",elias diaz,buyout,"2026 buyout, paid 11/4/26",2000000.0,,elias diaz|35,False
+SDP,"Hart, Kyle",kyle hart,buyout,"2026 buyout, paid 11/4/26",500000.0,,kyle hart|33,False
+SDP,"King, Michael",michael king,buyout,"2026 buyout, paid 11/3/26",3750000.0,,michael king|31,False
+SDP,"Wade, Tyler",tyler wade,buyout,"2026 buyout, paid 11/4/26",50000.0,,,False
+SDP,"Suarez, Robert",robert suarez,other,"true-up, $2.4M prorated 2025-26",1200000.0,1200000.0,robert suarez|35,True
+SDP,"Wacha, Michael",michael wacha,other,"true-up, $1M prorated 2024-26",333333.0,333333.0,michael wacha|35,True
+SFG,"Borucki, Ryan",ryan borucki,bonus,performance bonus - games,50000.0,50000.0,,False
+SFG,"Abner, Philip",philip abner,claimed,claimed by NY Mets 9/23/26,69178.0,69178.0,philip abner|24,True
+SFG,"Bivens, Spencer",spencer bivens,claimed,claimed by Kansas City 9/12/26,377968.0,377968.0,spencer bivens|32,True
+SFG,"Kennedy, Buddy",buddy kennedy,outrighted,outrighted 8/30/26,116792.0,116792.0,,False
+SFG,"Leonard, Eddys",eddys leonard,outrighted,outrighted 8/14/26,45882.0,45882.0,,False
+SFG,"Ray, Robbie",robbie ray,trade,"to San Diego, 8/3/26 trade",4176471.0,4176471.0,robbie ray|34,True
+SFG,"Ray, Robbie",robbie ray,trade,traded to San Diego 8/3/26,17647059.0,17647059.0,robbie ray|34,True
+SFG,"Ramos, Heliot",heliot ramos,trade,traded to NY Yankees 8/3/26,571765.0,571765.0,heliot ramos|26,True
+SFG,"Arraez, Luis",luis arraez,trade,traded to Philadelphia 8/3/26,8470588.0,8470588.0,luis arraez|29,True
+SFG,"Kilian, Caleb",caleb kilian,trade,traded to Philadelphia 8/3/26,600000.0,600000.0,caleb kilian|29,True
+SFG,"Miller, Erik",erik miller,trade,traded to Boston 8/3/26,571765.0,571765.0,erik miller|28,True
+SFG,"Mahle, Tyler",tyler mahle,trade,traded to Atlanta 8/2/26,7681521.0,7791969.0,tyler mahle|31,True
+SFG,"Bader, Harrison",harrison bader,other,deduction for contract violation,-1419786.0,-1419786.0,harrison bader|32,True
+SFG,"Haase, Eric",eric haase,released,released 7/23/26,804278.0,804278.0,,False
+SFG,"Cerantola, Eric",eric cerantola,outrighted,outrighted 7/15/26,6117.0,6117.0,,False
+SFG,"Santos, Gregory",gregory santos,outrighted,outrighted 7/6/26,243583.0,243583.0,,False
+SFG,"Ramos, Wilkin",wilkin ramos,outrighted,outrighted 7/2/26,35716.0,35716.0,,False
+SFG,"Kennedy, Buddy",buddy kennedy,trade,"from Seattle, 6/29/26 trade",-100000.0,-100000.0,,False
+SFG,"Kennedy, Buddy",buddy kennedy,trade,traded to Seattle 6/29/26,120963.0,120963.0,,False
+SFG,"Oliva, Jared",jared oliva,claimed,claimed by NY Mets 6/23/26,413636.0,413636.0,,False
+SFG,"Brennan, Will",will brennan,outrighted,outrighted 6/17/26,267380.0,267380.0,,False
+SFG,"Porter, Logan",logan porter,outrighted,outrighted 6/4/26,25334.0,25334.0,logan porter|30,False
+SFG,"Borucki, Ryan",ryan borucki,released,released 6/6/26,1500000.0,1500000.0,,False
+SFG,"Bailey, Patrick",patrick bailey,trade,traded to Cleveland 5/9/26,199251.0,199251.0,patrick bailey|27,True
+SFG,"Encarnacion, Jerar",jerar encarnacion,outrighted,outrighted 5/10/26,201070.0,201070.0,,False
+SFG,"Fitzgerald, Tyler",tyler fitzgerald,trade,"from Toronto, 4/4/26 trade",-100000.0,-100000.0,,False
+SFG,"Fitzgerald, Tyler",tyler fitzgerald,trade,traded to Toronto 4/4/26,14769.0,14769.0,,False
+SFG,"Smith, Dylan",dylan smith,trade,"to Detroit, 3/30/26 trade",100000.0,100000.0,dylan smith|26,True
+SFG,"Matos, Luis",luis matos,trade,"from Milwaukee, 3/30/26 trade",-100000.0,-100000.0,,False
+SFG,"Matos, Luis",luis matos,trade,traded to Milwaukee 3/30/26 R5,25348.0,25348.0,,False
+SFG,"Susac, Daniel",daniel susac,trade,"to Minnesota, 12/10/25 trade",,100000.0,daniel susac|25,True
+SFG,"Wiemer, Joey",joey wiemer,trade,"to Miami, 11/21/25 trade",,100000.0,,False
+SFG,"Hicks, Jordan",jordan hicks,cbt_credit,"CBT credit, 2024-25 ($13.225-$11)",,-1112904.0,jordan hicks|29,True
+SFG,"Murphy, Tom",tom murphy,buyout,buyout of 2026 option,250000.0,,,False
+SFG,"Soler, Jorge",jorge soler,trade,"true-up, 7/29/24 trade to Atlanta",,1875000.0,,False
+ARI,"Marte, Ketel",ketel marte,bonus,performance bonus - PA,100000.0,100000.0,ketel marte|31,True
+ARI,"McCann, James",james mccann,bonus,roster bonus,500000.0,500000.0,james mccann|36,True
+ARI,"Soroka, Michael",michael soroka,bonus,"performance bonus - GS, relief app",925000.0,925000.0,michael soroka|28,True
+ARI,"Sanchez, Jesus",jesus sanchez,dfa,DFA 9/26/26,472727.0,472727.0,,False
+ARI,"Law, Derek",derek law,outrighted,outrighted 9/18/26,168449.0,168449.0,,False
+ARI,"Gurriel Jr., Lourdes",lourdes gurriel jr,released,released 9/18/26,13000000.0,14000000.0,,False
+ARI,"Kepler, Max",max kepler,bonus,roster bonus,300000.0,300000.0,,False
+ARI,"Kepler, Max",max kepler,released,released 9/8/26,471337.0,471337.0,,False
+ARI,"Barrosa, Jorge",jorge barrosa,claimed,claimed by Houston 9/6/26,695602.0,695602.0,jorge barrosa|25,True
+ARI,"Littell, Zack",zack littell,released,released 8/26/26,70909.0,70909.0,,False
+ARI,"Hoffmann, Andrew",andrew hoffmann,claimed,claimed by Philadelphia 8/20/26,223810.0,223810.0,andrew hoffmann|26,True
+ARI,"Abner, Philip",philip abner,claimed,claimed by San Francisco 8/19/26,212319.0,212319.0,philip abner|24,True
+ARI,"Sewald, Paul",paul sewald,claimed,claimed by Toronto 8/12/26,1131016.0,1131016.0,paul sewald|36,True
+ARI,"Diaz, Yilber",yilber diaz,claimed,claimed by Detroit 6/26/26,91821.0,91821.0,yilber diaz|25,True
+ARI,"Santana, Carlos",carlos santana,released,released 6/26/26,1500000.0,1500000.0,,False
+ARI,"Garcia, Aramis",aramis garcia,outrighted,outrighted 6/14/26,207353.0,207353.0,,False
+ARI,"Rashi, Taylor",taylor rashi,trade,"from Minnesota, 6/8/26 trade",-100000.0,-100000.0,,False
+ARI,"Rashi, Taylor",taylor rashi,trade,traded to Minnesota 6/8/26,83944.0,83944.0,,False
+ARI,"Thomas, Alek",alek thomas,trade,traded to LA Dodgers 5/12/26,514238.0,514238.0,,False
+ARI,"Valdez, Jesus",jesus valdez,outrighted,outrighted 5/3/26,6552.0,6552.0,,False
+ARI,"Baker, Luken",luken baker,outrighted,outrighted 4/20/26,58396.0,58396.0,,False
+ARI,"Ross, Joe",joe ross,other,"elected FA 4/5/26, less Texas portion",1420749.0,1420749.0,,False
+ARI,"Holman, Grant",grant holman,claimed,claimed by LA Dodgers 4/1/26,8158.0,8158.0,grant holman|26,True
+ARI,"Arenado, Nolan",nolan arenado,trade,"from St. Louis, 1/13/26 trade",-22000000.0,-22000000.0,nolan arenado|35,True
+ARI,"Graveman, Kendall",kendall graveman,buyout,2026 buyout,100000.0,,,False
+COL,"Machin, Vimael",vimael machin,dfa,DFA 9/19/26,47345.0,47345.0,,False
+COL,"Freeman, Tyler",tyler freeman,outrighted,outrighted 9/5/26,1525000.0,1525000.0,,False
+COL,"Mushinski, Parker",parker mushinski,outrighted,outrighted 8/22/26,80267.0,80267.0,,False
+COL,"Lorenzen, Michael",michael lorenzen,released,"released 8/19/26, less Toronto portion",7641551.0,7891551.0,michael lorenzen|34,False
+COL,"Julien, Edouard",edouard julien,outrighted,outrighted 8/13/26,601981.0,601981.0,,False
+COL,"Vodnik, Victor",victor vodnik,trade,traded to Miami 8/3/26,557647.0,557647.0,victor vodnik|26,True
+COL,"Doyle, Brenton",brenton doyle,trade,traded to Chicago White Sox 8/3/26,2188235.0,2188235.0,brenton doyle|28,True
+COL,"Senzatela, Antonio",antonio senzatela,trade,traded to Milwaukee 8/3/26,8470588.0,8470588.0,antonio senzatela|31,True
+COL,"Halvorsen, Seth",seth halvorsen,trade,traded to LA Dodgers 7/20/26,395455.0,395455.0,seth halvorsen|26,True
+COL,"Brebbia, John",john brebbia,outrighted,outrighted 7/3/26,62567.0,62567.0,,False
+COL,"Peralta, Sammy",sammy peralta,outrighted,outrighted 6/25/26,129054.0,129054.0,sammy peralta|28,False
+COL,"Bellozo, Valente",valente bellozo,outrighted,outrighted 6/13/26,170299.0,170299.0,,False
+COL,"Thompson, Keegan",keegan thompson,outrighted,outrighted 6/10/26,461765.0,461765.0,,False
+COL,"Palmquist, Carson",carson palmquist,trade,"from Washington, 5/25/26 trade",-100000.0,-100000.0,carson palmquist|25,True
+COL,"Palmquist, Carson",carson palmquist,trade,traded to Washington 5/25/26,42140.0,42140.0,carson palmquist|25,True
+COL,"Crim, Blaine",blaine crim,claimed,claimed by Texas 5/23/26,71620.0,71620.0,,False
+COL,"Peralta, Luis",luis peralta,claimed,claimed by St. Louis 4/27/26,32471.0,32471.0,,False
+COL,"Ohl, Pierson",pierson ohl,trade,"to Minnesota, 1/28/26 trade",100000.0,100000.0,pierson ohl|26,True
+COL,"Rolison, Ryan",ryan rolison,trade,"from Atlanta, 11/19/25 trade",,-100000.0,ryan rolison|28,True
+COL,"Estrada, Thairo",thairo estrada,buyout,2026 buyout,750000.0,,,False
+COL,"Farmer, Kyle",kyle farmer,buyout,2026 buyout,750000.0,,kyle farmer|35,False
+COL,"Stallings, Jacob",jacob stallings,buyout,2026 buyout,500000.0,,,False
+COL,"McMahon, Ryan",ryan mcmahon,cbt_credit,"CBT credit, 2025-27",,-801996.0,ryan mcmahon|31,True
+COL,"Arenado, Nolan",nolan arenado,trade,paid by Colorado in 2/21 trade,5000000.0,5000000.0,nolan arenado|35,True

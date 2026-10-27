@@ -1,0 +1,26 @@
+League rows read: 2,235
+Contract rows: 1,369 | adjustment rows: 866
+Suspect ages set to NaN: 3 (Groover, LuJames [12], Troy, Tommy [12], Sullivan, Sean [103])
+Players with contract rows on >1 team (traded): 2 -> ['Arias, Gabriel', 'Hudson, Bryan']
+Adjustment categories:
+category
+trade         305
+outrighted    222
+claimed        96
+released       71
+bonus          70
+buyout         45
+other          21
+cbt_credit     21
+dfa            15
+Adjustment rows attached to a player's 2026 cost: 402
+Contracts parsed: 1,366/1,367 | multi-contract strings: 14 | with option language: 126
+Unparsed contract strings (sample): ['restricted list']
+Names duplicated on WAR leaderboard (possible mismatches): ['jose fermin', 'max muncy', 'yunior marte']
+Name-only WAR matches among players: 164 (mostly traded players; spot-check those flagged war_name_collision)
+Salary sum vs stated total on 683 1-yr deals: 73% within 2% (median abs diff 0.0%). Most misses are LOWER than stated = prorated pay (minor-league time, mid-season release); salary_2026 is treated as actual 2026 cost.
+Players with negative total salary after offsets: 0
+Players with no salary at all: 1
+Players with no 2026 WAR (NaN, not zero): 121
+Teams: 30 | total payroll in data: $5.46B | dead money: $379M
+NOTE: team WAR credits a traded player's full WAR to his current team only.
